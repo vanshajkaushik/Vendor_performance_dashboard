@@ -1,0 +1,107 @@
+// ====================================================================
+// VENDOR PERFORMANCE & PROCUREMENT INTELLIGENCE - DAX MEASURES CATALOG
+// Production-grade DAX measures designed for star schema data model
+// ====================================================================
+
+// --------------------------------------------------------------------
+// 1. Core Financial & Volume Measures
+// --------------------------------------------------------------------
+
+[Total Sales] = 
+SUM(FactSales[total_sales_value])
+
+[Total Procurement] = 
+SUM(FactPurchases[total_purchase_value])
+
+[Gross Profit] = 
+[Total Sales] - [Total Procurement]
+
+[Gross Margin %] = 
+DIVIDE([Gross Profit], [Total Sales], 0)
+
+[Sales Quantity] = 
+SUM(FactSales[quantity])
+
+[Purchase Quantity] = 
+SUM(FactPurchases[quantity])
+
+[Average Purchase Price] = 
+DIVIDE([Total Procurement], [Purchase Quantity], 0)
+
+[Average Selling Price] = 
+DIVIDE([Total Sales], [Sales Quantity], 0)
+
+[Purchase-to-Sales Ratio] = 
+DIVIDE([Total Procurement], [Total Sales], 0)
+
+// --------------------------------------------------------------------
+// 2. Growth & Variance Measures
+// --------------------------------------------------------------------
+
+[Sales Growth %] = 
+VAR CurrentSales = [Total Sales]
+VAR PriorPeriodSales = CALCULATE([Total Sales], DATEADD(DimDate[date], -1, MONTH))
+RETURN
+DIVIDE(CurrentSales - PriorPeriodSales, PriorPeriodSales, 0)
+
+[Procurement Growth %] = 
+VAR CurrentSpend = [Total Procurement]
+VAR PriorPeriodSpend = CALCULATE([Total Procurement], DATEADD(DimDate[date], -1, MONTH))
+RETURN
+DIVIDE(CurrentSpend - PriorPeriodSpend, PriorPeriodSpend, 0)
+
+[Price Variance %] = 
+VAR ActualAvgPrice = [Average Purchase Price]
+VAR StandardBenchmark = AVERAGE(DimProduct[standard_cost])
+RETURN
+DIVIDE(ActualAvgPrice - StandardBenchmark, StandardBenchmark, 0)
+
+// --------------------------------------------------------------------
+// 3. Sourcing Contribution & Concentration Measures
+// --------------------------------------------------------------------
+
+[Vendor Contribution %] = 
+VAR VendorSpend = [Total Procurement]
+VAR AllVendorsSpend = CALCULATE([Total Procurement], ALL(DimVendor))
+RETURN
+DIVIDE(VendorSpend, AllVendorsSpend, 0)
+
+[Category Concentration %] = 
+VAR VendorCategorySpend = [Total Procurement]
+VAR TotalCategorySpend = CALCULATE([Total Procurement], ALLEXCEPT(DimVendor, DimVendor[vendor_category]))
+RETURN
+DIVIDE(VendorCategorySpend, TotalCategorySpend, 0)
+
+// --------------------------------------------------------------------
+// 4. Operational & Vendor Performance Score (VPS)
+// --------------------------------------------------------------------
+
+[Inventory Turnover] = 
+VAR TotalProcurementAnnualized = [Total Procurement]
+VAR CurrentInventoryValue = SUMX(FactInventory, FactInventory[stock_quantity] * RELATED(DimProduct[standard_cost]))
+RETURN
+DIVIDE(TotalProcurementAnnualized, CurrentInventoryValue, 0)
+
+[Vendor Performance Score] = 
+// Business Rule: New vendors with < 3 orders receive BLANK() (New / Insufficient Data)
+VAR OrderCount = COUNTROWS(FactPurchases)
+VAR TotalSpend = [Total Procurement]
+RETURN
+IF(
+    OrderCount < 3 || TotalSpend <= 0,
+    BLANK(),
+    VAR ScoreRev = MIN(100, MAX(20, [Vendor Contribution %] * 500))
+    VAR ScoreMargin = MIN(100, MAX(0, ([Gross Margin %] - 0.15) / (0.55 - 0.15) * 100))
+    VAR ScoreEfficiency = MIN(100, MAX(0, (0.85 - [Purchase-to-Sales Ratio]) / (0.85 - 0.45) * 100))
+    VAR ScorePricing = MIN(100, MAX(0, (0.15 - [Price Variance %]) / (0.15 - (-0.12)) * 100))
+    VAR ScoreOps = (0.6 * (SELECTEDVALUE(DimVendor[rating], 4.0) - 1.0) / 4.0 * 100) + (0.4 * MIN(100, [Inventory Turnover] * 10))
+    RETURN
+    ROUND(
+        (0.25 * ScoreRev) + 
+        (0.25 * ScoreMargin) + 
+        (0.20 * ScoreEfficiency) + 
+        (0.15 * ScorePricing) + 
+        (0.15 * ScoreOps),
+        1
+    )
+)

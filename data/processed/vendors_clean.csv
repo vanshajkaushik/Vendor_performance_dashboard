@@ -1,0 +1,26 @@
+vendor_id,vendor_name,location,vendor_category,contact_name,contact_email,phone,rating,contract_start_date
+VND001,Apex Global Technologies,US-West,Electronics,Alice Zhang,alice@apexglobal.com,+1-415-555-0101,4.7,2022-01-15
+VND002,Novachip Semiconductor,Taiwan,Electronics,Chen Wei,chen.wei@novachip.tw,+886-2-555-0102,4.8,2021-06-01
+VND003,Pioneer Circuit Systems,Japan,Electronics,Kenji Sato,sato@pioneercircuit.jp,+81-3-555-0103,4.4,2022-03-10
+VND004,Horizon Display Corp,US-East,Electronics,Sarah Jenkins,sjenkins@horizondisplay.com,+1-212-555-0104,4.2,2022-08-20
+VND005,Silicon Valley Components,US-West,Electronics,Marcus Reed,mreed@svcomponents.io,+1-408-555-0105,4.6,2021-11-12
+VND006,Titan Precision Machinery,Germany,Industrial Machinery,Hans Gruber,hgruber@titanprecision.de,+49-89-555-0106,4.9,2021-03-01
+VND007,Vanguard Heavy Dynamics,US-Midwest,Industrial Machinery,Robert Miller,bmiller@vanguarddynamics.com,+1-312-555-0107,4.3,2022-05-18
+VND008,Apex Hydraulic Systems,US-South,Industrial Machinery,David Garcia,dgarcia@apexhydraulics.com,+1-713-555-0108,3.9,2023-01-10
+VND009,Quantum Fluidics & Motors,Germany,Industrial Machinery,Ingrid Weber,iweber@quantumfluidics.de,+49-711-555-0109,4.5,2022-04-05
+VND010,Nordic Industrial Gear,Germany,Industrial Machinery,Lars Lindholm,lars@nordicgear.se,+46-8-555-0110,4.1,2023-02-14
+VND011,Alliance Alloys & Steel,US-Midwest,Raw Materials,Frank O'Connor,foconnor@alliancealloys.com,+1-412-555-0111,4.3,2021-01-20
+VND012,Vertex Chemical Solutions,US-South,Raw Materials,Elena Rostova,erostova@vertexchem.com,+1-281-555-0112,4.0,2022-07-22
+VND013,Summit Polymer Industries,US-East,Raw Materials,Michael Chang,mchang@summitpolymers.com,+1-609-555-0113,4.5,2021-09-15
+VND014,Ecofiber Paper & Pulp,Canada,Raw Materials,Jean-Luc Tremblay,jtremblay@ecofiber.ca,+1-514-555-0114,4.2,2022-11-01
+VND015,Nippon High-Purity Metals,Japan,Raw Materials,Yuki Tanaka,ytanaka@nipponmetals.co.jp,+81-6-555-0115,4.8,2021-04-12
+VND016,Metro Office Supplies,US-East,Office Supplies,Jessica Taylor,procurement@vnd016.internal,+1-202-555-0116,3.8,2022-02-28
+VND017,Global Workspace Solutions,US-West,Office Supplies,Daniel Brooks,dbrooks@globalworkspace.com,+1-206-555-0117,4.1,2021-08-14
+VND018,Sterling Stationery Ltd,Canada,Office Supplies,Emily Watson,ewatson@sterlingstationery.ca,+1-416-555-0118,4.4,2022-10-10
+VND019,Crestview Ergonomics,US-Midwest,Office Supplies,Anthony Hopkins,ahopkins@crestview.com,+1-612-555-0119,4.6,2023-03-05
+VND020,Omnidesk Furnishings,US-South,Office Supplies,Carlos Mendoza,cmendoza@omnidesk.com,+1-000-000-0000,3.7,2023-04-18
+VND021,Pacific Corrugated Packaging,US-West,Packaging,Brian Lee,blee@pacificcorrugated.com,+1-503-555-0121,4.5,2021-05-10
+VND022,Biowrap Eco Packaging,Germany,Packaging,Greta Fischer,gfischer@biowrapgroup.com,+49-30-555-0122,4.6,2022-09-01
+VND023,Securepak Industrial,US-South,Packaging,Raymond Scott,rscott@securepak.com,+1-972-555-0123,3.9,2022-12-05
+VND024,Flexifilm Polymers,US-Midwest,Packaging,Rachel Adams,radams@flexifilm.com,+1-317-555-0124,4.2,2021-10-30
+VND025,Eurobox Container Logistics,Germany,Packaging,Stefan Muller,smuller@eurobox.eu,+49-40-555-0125,4.3,2023-05-20

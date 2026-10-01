@@ -1,0 +1,301 @@
+product_id,vendor_id,vendor_spend,vendor_qty,total_product_spend,dependency_pct,product_name,category,unit_cost,selling_price,vendor_name
+PRD001,VND001,363747.6,9045,1835460.6,19.82,Microcontroller Core X4,Electronics,42.0,79.99,Apex Global Technologies
+PRD001,VND002,404210.98,10471,1835460.6,22.02,Microcontroller Core X4,Electronics,42.0,79.99,Novachip Semiconductor
+PRD001,VND003,457254.72,9974,1835460.6,24.91,Microcontroller Core X4,Electronics,42.0,79.99,Pioneer Circuit Systems
+PRD001,VND004,343778.34,7260,1835460.6,18.73,Microcontroller Core X4,Electronics,42.0,79.99,Horizon Display Corp
+PRD001,VND005,266468.96,6464,1835460.6,14.52,Microcontroller Core X4,Electronics,42.0,79.99,Silicon Valley Components
+PRD002,VND001,1387090.9,11665,6696098.19,20.71,FPGA Accelerated Matrix,Electronics,125.0,249.5,Apex Global Technologies
+PRD002,VND002,940570.02,8165,6696098.19,14.05,FPGA Accelerated Matrix,Electronics,125.0,249.5,Novachip Semiconductor
+PRD002,VND003,1444476.0,10660,6696098.19,21.57,FPGA Accelerated Matrix,Electronics,125.0,249.5,Pioneer Circuit Systems
+PRD002,VND004,1666376.54,11740,6696098.19,24.89,FPGA Accelerated Matrix,Electronics,125.0,249.5,Horizon Display Corp
+PRD002,VND005,1257584.73,10231,6696098.19,18.78,FPGA Accelerated Matrix,Electronics,125.0,249.5,Silicon Valley Components
+PRD003,VND001,39306.4,9144,219691.62,17.89,Opto-Coupler High Speed,Electronics,4.5,9.99,Apex Global Technologies
+PRD003,VND002,43011.89,10344,219691.62,19.58,Opto-Coupler High Speed,Electronics,4.5,9.99,Novachip Semiconductor
+PRD003,VND003,52663.58,10847,219691.62,23.97,Opto-Coupler High Speed,Electronics,4.5,9.99,Pioneer Circuit Systems
+PRD003,VND004,44283.72,8608,219691.62,20.16,Opto-Coupler High Speed,Electronics,4.5,9.99,Horizon Display Corp
+PRD003,VND005,40426.03,9182,219691.62,18.4,Opto-Coupler High Speed,Electronics,4.5,9.99,Silicon Valley Components
+PRD004,VND001,151847.97,8703,843035.74,18.01,Multi-Layer Ceramic PCB v3,Electronics,18.2,39.99,Apex Global Technologies
+PRD004,VND002,173246.03,10350,843035.74,20.55,Multi-Layer Ceramic PCB v3,Electronics,18.2,39.99,Novachip Semiconductor
+PRD004,VND003,187479.97,9521,843035.74,22.24,Multi-Layer Ceramic PCB v3,Electronics,18.2,39.99,Pioneer Circuit Systems
+PRD004,VND004,196245.53,9460,843035.74,23.28,Multi-Layer Ceramic PCB v3,Electronics,18.2,39.99,Horizon Display Corp
+PRD004,VND005,134216.24,7448,843035.74,15.92,Multi-Layer Ceramic PCB v3,Electronics,18.2,39.99,Silicon Valley Components
+PRD005,VND001,276817.13,8775,1381625.03,20.04,High-Density Rigid-Flex PCB,Electronics,32.5,68.0,Apex Global Technologies
+PRD005,VND002,250930.4,8412,1381625.03,18.16,High-Density Rigid-Flex PCB,Electronics,32.5,68.0,Novachip Semiconductor
+PRD005,VND003,311180.04,8947,1381625.03,22.52,High-Density Rigid-Flex PCB,Electronics,32.5,68.0,Pioneer Circuit Systems
+PRD005,VND004,278256.63,7499,1381625.03,20.14,High-Density Rigid-Flex PCB,Electronics,32.5,68.0,Horizon Display Corp
+PRD005,VND005,264440.83,8282,1381625.03,19.14,High-Density Rigid-Flex PCB,Electronics,32.5,68.0,Silicon Valley Components
+PRD006,VND001,179897.0,11820,781841.38,23.01,Embedded Sensor Array,Electronics,15.8,34.5,Apex Global Technologies
+PRD006,VND002,148716.15,10276,781841.38,19.02,Embedded Sensor Array,Electronics,15.8,34.5,Novachip Semiconductor
+PRD006,VND003,204676.34,11978,781841.38,26.18,Embedded Sensor Array,Electronics,15.8,34.5,Pioneer Circuit Systems
+PRD006,VND004,150924.26,8380,781841.38,19.3,Embedded Sensor Array,Electronics,15.8,34.5,Horizon Display Corp
+PRD006,VND005,97627.63,6297,781841.38,12.49,Embedded Sensor Array,Electronics,15.8,34.5,Silicon Valley Components
+PRD007,VND001,1786224.07,8885,11169384.82,15.99,Industrial LiDAR Sensor,Electronics,210.0,399.0,Apex Global Technologies
+PRD007,VND002,2402778.23,12408,11169384.82,21.51,Industrial LiDAR Sensor,Electronics,210.0,399.0,Novachip Semiconductor
+PRD007,VND003,1745680.06,7759,11169384.82,15.63,Industrial LiDAR Sensor,Electronics,210.0,399.0,Pioneer Circuit Systems
+PRD007,VND004,3235191.21,13455,11169384.82,28.96,Industrial LiDAR Sensor,Electronics,210.0,399.0,Horizon Display Corp
+PRD007,VND005,1999511.25,9700,11169384.82,17.9,Industrial LiDAR Sensor,Electronics,210.0,399.0,Silicon Valley Components
+PRD008,VND001,591752.45,9091,3226355.56,18.34,Ultra-Bright OLED Panel 7in,Electronics,68.0,129.99,Apex Global Technologies
+PRD008,VND002,632887.16,10068,3226355.56,19.62,Ultra-Bright OLED Panel 7in,Electronics,68.0,129.99,Novachip Semiconductor
+PRD008,VND003,623086.69,8440,3226355.56,19.31,Ultra-Bright OLED Panel 7in,Electronics,68.0,129.99,Pioneer Circuit Systems
+PRD008,VND004,727016.64,9506,3226355.56,22.53,Ultra-Bright OLED Panel 7in,Electronics,68.0,129.99,Horizon Display Corp
+PRD008,VND005,651612.62,9777,3226355.56,20.2,Ultra-Bright OLED Panel 7in,Electronics,68.0,129.99,Silicon Valley Components
+PRD009,VND001,831998.5,9799,4572196.24,18.2,Touch TFT Module 10in,Electronics,88.5,169.0,Apex Global Technologies
+PRD009,VND002,879712.65,10780,4572196.24,19.24,Touch TFT Module 10in,Electronics,88.5,169.0,Novachip Semiconductor
+PRD009,VND003,937937.52,9736,4572196.24,20.51,Touch TFT Module 10in,Electronics,88.5,169.0,Pioneer Circuit Systems
+PRD009,VND004,1097676.21,10933,4572196.24,24.01,Touch TFT Module 10in,Electronics,88.5,169.0,Horizon Display Corp
+PRD009,VND005,824871.36,9483,4572196.24,18.04,Touch TFT Module 10in,Electronics,88.5,169.0,Silicon Valley Components
+PRD010,VND001,1338062.44,12653,5961667.2299999995,22.44,e-Paper Display 13.3in,Electronics,110.0,215.0,Apex Global Technologies
+PRD010,VND002,955435.17,9434,5961667.2299999995,16.03,e-Paper Display 13.3in,Electronics,110.0,215.0,Novachip Semiconductor
+PRD010,VND003,1115661.82,9395,5961667.2299999995,18.71,e-Paper Display 13.3in,Electronics,110.0,215.0,Pioneer Circuit Systems
+PRD010,VND004,1529594.53,12142,5961667.2299999995,25.66,e-Paper Display 13.3in,Electronics,110.0,215.0,Horizon Display Corp
+PRD010,VND005,1022913.27,9440,5961667.2299999995,17.16,e-Paper Display 13.3in,Electronics,110.0,215.0,Silicon Valley Components
+PRD011,VND001,250501.31,9294,1318868.36,18.99,ARM Cortex IoT Transceiver,Electronics,28.0,56.0,Apex Global Technologies
+PRD011,VND002,176032.18,6825,1318868.36,13.35,ARM Cortex IoT Transceiver,Electronics,28.0,56.0,Novachip Semiconductor
+PRD011,VND003,320501.59,10522,1318868.36,24.3,ARM Cortex IoT Transceiver,Electronics,28.0,56.0,Pioneer Circuit Systems
+PRD011,VND004,292604.6,9198,1318868.36,22.19,ARM Cortex IoT Transceiver,Electronics,28.0,56.0,Horizon Display Corp
+PRD011,VND005,279228.68,10127,1318868.36,21.17,ARM Cortex IoT Transceiver,Electronics,28.0,56.0,Silicon Valley Components
+PRD012,VND001,154182.76,7258,1186921.79,12.99,Solid State Relay Module,Electronics,22.0,48.0,Apex Global Technologies
+PRD012,VND002,277646.79,13632,1186921.79,23.39,Solid State Relay Module,Electronics,22.0,48.0,Novachip Semiconductor
+PRD012,VND003,254253.74,10703,1186921.79,21.42,Solid State Relay Module,Electronics,22.0,48.0,Pioneer Circuit Systems
+PRD012,VND004,309321.84,12280,1186921.79,26.06,Solid State Relay Module,Electronics,22.0,48.0,Horizon Display Corp
+PRD012,VND005,191516.66,8842,1186921.79,16.14,Solid State Relay Module,Electronics,22.0,48.0,Silicon Valley Components
+PRD013,VND001,58107.27,8856,339876.04,17.1,Precision Shunt Resistor Kit,Electronics,6.8,14.5,Apex Global Technologies
+PRD013,VND002,82986.53,13210,339876.04,24.42,Precision Shunt Resistor Kit,Electronics,6.8,14.5,Novachip Semiconductor
+PRD013,VND003,55017.6,7487,339876.04,16.19,Precision Shunt Resistor Kit,Electronics,6.8,14.5,Pioneer Circuit Systems
+PRD013,VND004,63861.82,8311,339876.04,18.79,Precision Shunt Resistor Kit,Electronics,6.8,14.5,Horizon Display Corp
+PRD013,VND005,79902.81999999999,11924,339876.04,23.51,Precision Shunt Resistor Kit,Electronics,6.8,14.5,Silicon Valley Components
+PRD014,VND001,108339.97,9056,529577.47,20.46,Shielded Ethernet Interface,Electronics,12.4,27.9,Apex Global Technologies
+PRD014,VND002,91794.76,8075,529577.47,17.33,Shielded Ethernet Interface,Electronics,12.4,27.9,Novachip Semiconductor
+PRD014,VND003,96234.86,7143,529577.47,18.17,Shielded Ethernet Interface,Electronics,12.4,27.9,Pioneer Circuit Systems
+PRD014,VND004,113074.51,8062,529577.47,21.35,Shielded Ethernet Interface,Electronics,12.4,27.9,Horizon Display Corp
+PRD014,VND005,120133.37,9887,529577.47,22.68,Shielded Ethernet Interface,Electronics,12.4,27.9,Silicon Valley Components
+PRD015,VND006,700873.84,1831,2465212.12,28.43,Hydraulic Servo Valve 3000PSI,Industrial Machinery,340.0,620.0,Titan Precision Machinery
+PRD015,VND007,398032.52,1226,2465212.12,16.15,Hydraulic Servo Valve 3000PSI,Industrial Machinery,340.0,620.0,Vanguard Heavy Dynamics
+PRD015,VND008,534590.96,1496,2465212.12,21.69,Hydraulic Servo Valve 3000PSI,Industrial Machinery,340.0,620.0,Apex Hydraulic Systems
+PRD015,VND009,370455.61,1074,2465212.12,15.03,Hydraulic Servo Valve 3000PSI,Industrial Machinery,340.0,620.0,Quantum Fluidics & Motors
+PRD015,VND010,461259.19,1530,2465212.12,18.71,Hydraulic Servo Valve 3000PSI,Industrial Machinery,340.0,620.0,Nordic Industrial Gear
+PRD016,VND006,747605.56,1378,2969244.03,25.18,High-Pressure Gear Pump 50L,Industrial Machinery,480.0,890.0,Titan Precision Machinery
+PRD016,VND007,718484.29,1588,2969244.03,24.2,High-Pressure Gear Pump 50L,Industrial Machinery,480.0,890.0,Vanguard Heavy Dynamics
+PRD016,VND008,513361.71,1005,2969244.03,17.29,High-Pressure Gear Pump 50L,Industrial Machinery,480.0,890.0,Apex Hydraulic Systems
+PRD016,VND009,560785.71,1158,2969244.03,18.89,High-Pressure Gear Pump 50L,Industrial Machinery,480.0,890.0,Quantum Fluidics & Motors
+PRD016,VND010,429006.76,1008,2969244.03,14.45,High-Pressure Gear Pump 50L,Industrial Machinery,480.0,890.0,Nordic Industrial Gear
+PRD017,VND006,1241074.47,1711,5258592.9799999995,23.6,Variable Speed AC Drive 15kW,Industrial Machinery,650.0,1190.0,Titan Precision Machinery
+PRD017,VND007,736956.5,1204,5258592.9799999995,14.01,Variable Speed AC Drive 15kW,Industrial Machinery,650.0,1190.0,Vanguard Heavy Dynamics
+PRD017,VND008,1267349.6099999999,1860,5258592.9799999995,24.1,Variable Speed AC Drive 15kW,Industrial Machinery,650.0,1190.0,Apex Hydraulic Systems
+PRD017,VND009,1122576.41,1686,5258592.9799999995,21.35,Variable Speed AC Drive 15kW,Industrial Machinery,650.0,1190.0,Quantum Fluidics & Motors
+PRD017,VND010,890635.99,1534,5258592.9799999995,16.94,Variable Speed AC Drive 15kW,Industrial Machinery,650.0,1190.0,Nordic Industrial Gear
+PRD018,VND006,313280.88,1547,1339005.09,23.4,Brushless DC Motor 48V,Industrial Machinery,180.0,340.0,Titan Precision Machinery
+PRD018,VND007,249984.82,1454,1339005.09,18.67,Brushless DC Motor 48V,Industrial Machinery,180.0,340.0,Vanguard Heavy Dynamics
+PRD018,VND008,290270.5,1549,1339005.09,21.68,Brushless DC Motor 48V,Industrial Machinery,180.0,340.0,Apex Hydraulic Systems
+PRD018,VND009,229799.83,1260,1339005.09,17.16,Brushless DC Motor 48V,Industrial Machinery,180.0,340.0,Quantum Fluidics & Motors
+PRD018,VND010,255669.06,1613,1339005.09,19.09,Brushless DC Motor 48V,Industrial Machinery,180.0,340.0,Nordic Industrial Gear
+PRD019,VND006,311960.49,1930,1181802.5,26.4,Pneumatic Linear Actuator 500mm,Industrial Machinery,145.0,285.0,Titan Precision Machinery
+PRD019,VND007,218887.6,1610,1181802.5,18.52,Pneumatic Linear Actuator 500mm,Industrial Machinery,145.0,285.0,Vanguard Heavy Dynamics
+PRD019,VND008,225018.33,1487,1181802.5,19.04,Pneumatic Linear Actuator 500mm,Industrial Machinery,145.0,285.0,Apex Hydraulic Systems
+PRD019,VND009,234669.97,1580,1181802.5,19.86,Pneumatic Linear Actuator 500mm,Industrial Machinery,145.0,285.0,Quantum Fluidics & Motors
+PRD019,VND010,191266.11000000002,1481,1181802.5,16.18,Pneumatic Linear Actuator 500mm,Industrial Machinery,145.0,285.0,Nordic Industrial Gear
+PRD020,VND006,130173.75,1562,592824.66,21.96,Heavy Duty Flange Bearing 80mm,Industrial Machinery,75.0,155.0,Titan Precision Machinery
+PRD020,VND007,92902.18,1300,592824.66,15.67,Heavy Duty Flange Bearing 80mm,Industrial Machinery,75.0,155.0,Vanguard Heavy Dynamics
+PRD020,VND008,130768.0,1675,592824.66,22.06,Heavy Duty Flange Bearing 80mm,Industrial Machinery,75.0,155.0,Apex Hydraulic Systems
+PRD020,VND009,138374.65,1798,592824.66,23.34,Heavy Duty Flange Bearing 80mm,Industrial Machinery,75.0,155.0,Quantum Fluidics & Motors
+PRD020,VND010,100606.08,1498,592824.66,16.97,Heavy Duty Flange Bearing 80mm,Industrial Machinery,75.0,155.0,Nordic Industrial Gear
+PRD021,VND006,335101.59,1540,1456351.36,23.01,Rotary Encoder Optical 5000PPR,Industrial Machinery,195.0,375.0,Titan Precision Machinery
+PRD021,VND007,295605.74,1583,1456351.36,20.3,Rotary Encoder Optical 5000PPR,Industrial Machinery,195.0,375.0,Vanguard Heavy Dynamics
+PRD021,VND008,324897.42,1592,1456351.36,22.31,Rotary Encoder Optical 5000PPR,Industrial Machinery,195.0,375.0,Apex Hydraulic Systems
+PRD021,VND009,287079.79,1446,1456351.36,19.71,Rotary Encoder Optical 5000PPR,Industrial Machinery,195.0,375.0,Quantum Fluidics & Motors
+PRD021,VND010,213666.82,1221,1456351.36,14.67,Rotary Encoder Optical 5000PPR,Industrial Machinery,195.0,375.0,Nordic Industrial Gear
+PRD022,VND006,1095586.3,1869,3995669.37,27.42,Planetary Gearbox Ratio 25:1,Industrial Machinery,520.0,980.0,Titan Precision Machinery
+PRD022,VND007,701798.84,1428,3995669.37,17.56,Planetary Gearbox Ratio 25:1,Industrial Machinery,520.0,980.0,Vanguard Heavy Dynamics
+PRD022,VND008,677163.11,1238,3995669.37,16.95,Planetary Gearbox Ratio 25:1,Industrial Machinery,520.0,980.0,Apex Hydraulic Systems
+PRD022,VND009,780198.6,1481,3995669.37,19.53,Planetary Gearbox Ratio 25:1,Industrial Machinery,520.0,980.0,Quantum Fluidics & Motors
+PRD022,VND010,740922.52,1601,3995669.37,18.54,Planetary Gearbox Ratio 25:1,Industrial Machinery,520.0,980.0,Nordic Industrial Gear
+PRD023,VND006,1369637.3,1490,5521756.7,24.8,Industrial Chiller Heat Exchanger,Industrial Machinery,820.0,1490.0,Titan Precision Machinery
+PRD023,VND007,968951.58,1246,5521756.7,17.55,Industrial Chiller Heat Exchanger,Industrial Machinery,820.0,1490.0,Vanguard Heavy Dynamics
+PRD023,VND008,1082787.8,1263,5521756.7,19.61,Industrial Chiller Heat Exchanger,Industrial Machinery,820.0,1490.0,Apex Hydraulic Systems
+PRD023,VND009,1473958.2,1765,5521756.7,26.69,Industrial Chiller Heat Exchanger,Industrial Machinery,820.0,1490.0,Quantum Fluidics & Motors
+PRD023,VND010,626421.82,860,5521756.7,11.34,Industrial Chiller Heat Exchanger,Industrial Machinery,820.0,1490.0,Nordic Industrial Gear
+PRD024,VND006,386784.31,1617,1506524.49,25.67,Cast Iron Centrifugal Impeller,Industrial Machinery,215.0,410.0,Titan Precision Machinery
+PRD024,VND007,278009.1,1361,1506524.49,18.45,Cast Iron Centrifugal Impeller,Industrial Machinery,215.0,410.0,Vanguard Heavy Dynamics
+PRD024,VND008,317826.44,1409,1506524.49,21.1,Cast Iron Centrifugal Impeller,Industrial Machinery,215.0,410.0,Apex Hydraulic Systems
+PRD024,VND009,292488.96,1342,1506524.49,19.41,Cast Iron Centrifugal Impeller,Industrial Machinery,215.0,410.0,Quantum Fluidics & Motors
+PRD024,VND010,231415.68,1206,1506524.49,15.36,Cast Iron Centrifugal Impeller,Industrial Machinery,215.0,410.0,Nordic Industrial Gear
+PRD025,VND006,59822.97,1407,286234.89,20.9,Vibration Damping Mount Heavy,Industrial Machinery,38.0,79.0,Titan Precision Machinery
+PRD025,VND007,41924.27,1157,286234.89,14.65,Vibration Damping Mount Heavy,Industrial Machinery,38.0,79.0,Vanguard Heavy Dynamics
+PRD025,VND008,62256.97,1572,286234.89,21.75,Vibration Damping Mount Heavy,Industrial Machinery,38.0,79.0,Apex Hydraulic Systems
+PRD025,VND009,68824.07,1773,286234.89,24.04,Vibration Damping Mount Heavy,Industrial Machinery,38.0,79.0,Quantum Fluidics & Motors
+PRD025,VND010,53406.61,1567,286234.89,18.66,Vibration Damping Mount Heavy,Industrial Machinery,38.0,79.0,Nordic Industrial Gear
+PRD026,VND006,707319.45,873,4918948.02,14.38,PLC Central Controller Unit,Industrial Machinery,720.0,1350.0,Titan Precision Machinery
+PRD026,VND007,1152774.52,1680,4918948.02,23.44,PLC Central Controller Unit,Industrial Machinery,720.0,1350.0,Vanguard Heavy Dynamics
+PRD026,VND008,1103719.41,1459,4918948.02,22.44,PLC Central Controller Unit,Industrial Machinery,720.0,1350.0,Apex Hydraulic Systems
+PRD026,VND009,1011166.15,1382,4918948.02,20.56,PLC Central Controller Unit,Industrial Machinery,720.0,1350.0,Quantum Fluidics & Motors
+PRD026,VND010,943968.49,1459,4918948.02,19.19,PLC Central Controller Unit,Industrial Machinery,720.0,1350.0,Nordic Industrial Gear
+PRD027,VND011,737840.88,9121,3198429.63,23.07,Stainless Steel Sheet 316L 2mm,Raw Materials,85.0,140.0,Alliance Alloys & Steel
+PRD027,VND012,653546.17,6918,3198429.63,20.43,Stainless Steel Sheet 316L 2mm,Raw Materials,85.0,140.0,Vertex Chemical Solutions
+PRD027,VND013,521443.1,6376,3198429.63,16.3,Stainless Steel Sheet 316L 2mm,Raw Materials,85.0,140.0,Summit Polymer Industries
+PRD027,VND014,611341.83,8081,3198429.63,19.11,Stainless Steel Sheet 316L 2mm,Raw Materials,85.0,140.0,Ecofiber Paper & Pulp
+PRD027,VND015,674257.65,6873,3198429.63,21.08,Stainless Steel Sheet 316L 2mm,Raw Materials,85.0,140.0,Nippon High-Purity Metals
+PRD028,VND011,726567.71,6724,4563867.36,15.92,Aerospace Grade Aluminum 6061-T6,Raw Materials,115.0,195.0,Alliance Alloys & Steel
+PRD028,VND012,934378.82,7385,4563867.36,20.47,Aerospace Grade Aluminum 6061-T6,Raw Materials,115.0,195.0,Vertex Chemical Solutions
+PRD028,VND013,1030116.77,9252,4563867.36,22.57,Aerospace Grade Aluminum 6061-T6,Raw Materials,115.0,195.0,Summit Polymer Industries
+PRD028,VND014,823467.8200000001,7924,4563867.36,18.04,Aerospace Grade Aluminum 6061-T6,Raw Materials,115.0,195.0,Ecofiber Paper & Pulp
+PRD028,VND015,1049336.24,7833,4563867.36,22.99,Aerospace Grade Aluminum 6061-T6,Raw Materials,115.0,195.0,Nippon High-Purity Metals
+PRD029,VND011,702979.17,7644,3600954.49,19.52,Copper Rod High Conductive 20mm,Raw Materials,98.0,168.0,Alliance Alloys & Steel
+PRD029,VND012,799691.16,7285,3600954.49,22.21,Copper Rod High Conductive 20mm,Raw Materials,98.0,168.0,Vertex Chemical Solutions
+PRD029,VND013,577988.14,6130,3600954.49,16.05,Copper Rod High Conductive 20mm,Raw Materials,98.0,168.0,Summit Polymer Industries
+PRD029,VND014,479999.12,5457,3600954.49,13.33,Copper Rod High Conductive 20mm,Raw Materials,98.0,168.0,Ecofiber Paper & Pulp
+PRD029,VND015,1040296.9,9184,3600954.49,28.89,Copper Rod High Conductive 20mm,Raw Materials,98.0,168.0,Nippon High-Purity Metals
+PRD030,VND011,1456247.8,6489,8257979.58,17.63,Titanium Alloy Ingot Grade 5,Raw Materials,240.0,420.0,Alliance Alloys & Steel
+PRD030,VND012,1920704.82,7259,8257979.58,23.26,Titanium Alloy Ingot Grade 5,Raw Materials,240.0,420.0,Vertex Chemical Solutions
+PRD030,VND013,1328526.8,5651,8257979.58,16.09,Titanium Alloy Ingot Grade 5,Raw Materials,240.0,420.0,Summit Polymer Industries
+PRD030,VND014,1468590.92,6793,8257979.58,17.78,Titanium Alloy Ingot Grade 5,Raw Materials,240.0,420.0,Ecofiber Paper & Pulp
+PRD030,VND015,2083909.24,7513,8257979.58,25.24,Titanium Alloy Ingot Grade 5,Raw Materials,240.0,420.0,Nippon High-Purity Metals
+PRD031,VND011,1096766.81,7282,5991292.25,18.31,Industrial Epoxy Resin 50kg,Raw Materials,160.0,275.0,Alliance Alloys & Steel
+PRD031,VND012,1302759.28,7333,5991292.25,21.74,Industrial Epoxy Resin 50kg,Raw Materials,160.0,275.0,Vertex Chemical Solutions
+PRD031,VND013,1367187.4,8842,5991292.25,22.82,Industrial Epoxy Resin 50kg,Raw Materials,160.0,275.0,Summit Polymer Industries
+PRD031,VND014,904238.04,6349,5991292.25,15.09,Industrial Epoxy Resin 50kg,Raw Materials,160.0,275.0,Ecofiber Paper & Pulp
+PRD031,VND015,1320340.72,7183,5991292.25,22.04,Industrial Epoxy Resin 50kg,Raw Materials,160.0,275.0,Nippon High-Purity Metals
+PRD032,VND011,551884.57,8239,2986091.88,18.48,Polyurethane Elastomer Pellet,Raw Materials,72.0,125.0,Alliance Alloys & Steel
+PRD032,VND012,617931.47,7749,2986091.88,20.69,Polyurethane Elastomer Pellet,Raw Materials,72.0,125.0,Vertex Chemical Solutions
+PRD032,VND013,514883.84,7413,2986091.88,17.24,Polyurethane Elastomer Pellet,Raw Materials,72.0,125.0,Summit Polymer Industries
+PRD032,VND014,571403.54,8894,2986091.88,19.14,Polyurethane Elastomer Pellet,Raw Materials,72.0,125.0,Ecofiber Paper & Pulp
+PRD032,VND015,729988.46,8827,2986091.88,24.45,Polyurethane Elastomer Pellet,Raw Materials,72.0,125.0,Nippon High-Purity Metals
+PRD033,VND011,370256.81,8712,1491296.72,24.83,High-Density Polyethylene HDPE,Raw Materials,45.0,78.0,Alliance Alloys & Steel
+PRD033,VND012,263648.88,5351,1491296.72,17.68,High-Density Polyethylene HDPE,Raw Materials,45.0,78.0,Vertex Chemical Solutions
+PRD033,VND013,345434.56,7903,1491296.72,23.16,High-Density Polyethylene HDPE,Raw Materials,45.0,78.0,Summit Polymer Industries
+PRD033,VND014,243403.98,5967,1491296.72,16.32,High-Density Polyethylene HDPE,Raw Materials,45.0,78.0,Ecofiber Paper & Pulp
+PRD033,VND015,268552.49,5219,1491296.72,18.01,High-Density Polyethylene HDPE,Raw Materials,45.0,78.0,Nippon High-Purity Metals
+PRD034,VND011,1918342.42,6651,11344783.49,16.91,Carbon Fiber Prepreg Roll 100m,Raw Materials,310.0,540.0,Alliance Alloys & Steel
+PRD034,VND012,2663560.57,7725,11344783.49,23.48,Carbon Fiber Prepreg Roll 100m,Raw Materials,310.0,540.0,Vertex Chemical Solutions
+PRD034,VND013,1813052.2,6078,11344783.49,15.98,Carbon Fiber Prepreg Roll 100m,Raw Materials,310.0,540.0,Summit Polymer Industries
+PRD034,VND014,2178404.05,7767,11344783.49,19.2,Carbon Fiber Prepreg Roll 100m,Raw Materials,310.0,540.0,Ecofiber Paper & Pulp
+PRD034,VND015,2771424.25,7735,11344783.49,24.43,Carbon Fiber Prepreg Roll 100m,Raw Materials,310.0,540.0,Nippon High-Purity Metals
+PRD035,VND011,2856339.09,6675,14955996.53,19.1,Bleached Sulfate Kraft Pulp 1T,Raw Materials,450.0,720.0,Alliance Alloys & Steel
+PRD035,VND012,3364390.83,6745,14955996.53,22.5,Bleached Sulfate Kraft Pulp 1T,Raw Materials,450.0,720.0,Vertex Chemical Solutions
+PRD035,VND013,2502260.32,5761,14955996.53,16.73,Bleached Sulfate Kraft Pulp 1T,Raw Materials,450.0,720.0,Summit Polymer Industries
+PRD035,VND014,3207333.06,7881,14955996.53,21.45,Bleached Sulfate Kraft Pulp 1T,Raw Materials,450.0,720.0,Ecofiber Paper & Pulp
+PRD035,VND015,3025673.23,5820,14955996.53,20.23,Bleached Sulfate Kraft Pulp 1T,Raw Materials,450.0,720.0,Nippon High-Purity Metals
+PRD036,VND011,1091054.53,8934,4692748.87,23.25,Specialty Ceramic Powder Alumina,Raw Materials,130.0,230.0,Alliance Alloys & Steel
+PRD036,VND012,717592.97,4987,4692748.87,15.29,Specialty Ceramic Powder Alumina,Raw Materials,130.0,230.0,Vertex Chemical Solutions
+PRD036,VND013,757591.29,6033,4692748.87,16.14,Specialty Ceramic Powder Alumina,Raw Materials,130.0,230.0,Summit Polymer Industries
+PRD036,VND014,697450.99,6012,4692748.87,14.86,Specialty Ceramic Powder Alumina,Raw Materials,130.0,230.0,Ecofiber Paper & Pulp
+PRD036,VND015,1429059.09,9545,4692748.87,30.45,Specialty Ceramic Powder Alumina,Raw Materials,130.0,230.0,Nippon High-Purity Metals
+PRD037,VND011,716389.87,8724,3655731.04,19.6,Liquid Silicone Rubber Shore 40,Raw Materials,88.0,152.0,Alliance Alloys & Steel
+PRD037,VND012,811297.45,8235,3655731.04,22.19,Liquid Silicone Rubber Shore 40,Raw Materials,88.0,152.0,Vertex Chemical Solutions
+PRD037,VND013,559517.42,6533,3655731.04,15.31,Liquid Silicone Rubber Shore 40,Raw Materials,88.0,152.0,Summit Polymer Industries
+PRD037,VND014,721969.1,9106,3655731.04,19.75,Liquid Silicone Rubber Shore 40,Raw Materials,88.0,152.0,Ecofiber Paper & Pulp
+PRD037,VND015,846557.2,8383,3655731.04,23.16,Liquid Silicone Rubber Shore 40,Raw Materials,88.0,152.0,Nippon High-Purity Metals
+PRD038,VND011,317935.52,6351,1939471.38,16.39,Galvanized Steel Wire Coils,Raw Materials,54.0,92.0,Alliance Alloys & Steel
+PRD038,VND012,461665.46,7665,1939471.38,23.8,Galvanized Steel Wire Coils,Raw Materials,54.0,92.0,Vertex Chemical Solutions
+PRD038,VND013,360300.95,6881,1939471.38,18.58,Galvanized Steel Wire Coils,Raw Materials,54.0,92.0,Summit Polymer Industries
+PRD038,VND014,318221.67,6581,1939471.38,16.41,Galvanized Steel Wire Coils,Raw Materials,54.0,92.0,Ecofiber Paper & Pulp
+PRD038,VND015,481347.78,7760,1939471.38,24.82,Galvanized Steel Wire Coils,Raw Materials,54.0,92.0,Nippon High-Purity Metals
+PRD039,VND016,1157437.77,6787,4058825.23,28.52,Ergonomic Mesh Task Chair,Office Supplies,145.0,289.0,Metro Office Supplies
+PRD039,VND017,640020.26,4627,4058825.23,15.77,Ergonomic Mesh Task Chair,Office Supplies,145.0,289.0,Global Workspace Solutions
+PRD039,VND018,511692.95999999996,3811,4058825.23,12.61,Ergonomic Mesh Task Chair,Office Supplies,145.0,289.0,Sterling Stationery Ltd
+PRD039,VND019,1112434.48,7349,4058825.23,27.41,Ergonomic Mesh Task Chair,Office Supplies,145.0,289.0,Crestview Ergonomics
+PRD039,VND020,637239.76,4993,4058825.23,15.7,Ergonomic Mesh Task Chair,Office Supplies,145.0,289.0,Omnidesk Furnishings
+PRD040,VND016,1916603.29,5599,8243666.47,23.25,Motorized Standing Desk 60in,Office Supplies,290.0,580.0,Metro Office Supplies
+PRD040,VND017,1814941.26,6501,8243666.47,22.02,Motorized Standing Desk 60in,Office Supplies,290.0,580.0,Global Workspace Solutions
+PRD040,VND018,1341941.54,4970,8243666.47,16.28,Motorized Standing Desk 60in,Office Supplies,290.0,580.0,Sterling Stationery Ltd
+PRD040,VND019,1511294.18,5042,8243666.47,18.33,Motorized Standing Desk 60in,Office Supplies,290.0,580.0,Crestview Ergonomics
+PRD040,VND020,1658886.2,6496,8243666.47,20.12,Motorized Standing Desk 60in,Office Supplies,290.0,580.0,Omnidesk Furnishings
+PRD041,VND016,407711.03,7288,1516944.55,26.88,Dual Monitor Gas Spring Arm,Office Supplies,48.0,99.0,Metro Office Supplies
+PRD041,VND017,293080.59,6337,1516944.55,19.32,Dual Monitor Gas Spring Arm,Office Supplies,48.0,99.0,Global Workspace Solutions
+PRD041,VND018,265149.73,5898,1516944.55,17.48,Dual Monitor Gas Spring Arm,Office Supplies,48.0,99.0,Sterling Stationery Ltd
+PRD041,VND019,272853.69,5462,1516944.55,17.99,Dual Monitor Gas Spring Arm,Office Supplies,48.0,99.0,Crestview Ergonomics
+PRD041,VND020,278149.51,6562,1516944.55,18.34,Dual Monitor Gas Spring Arm,Office Supplies,48.0,99.0,Omnidesk Furnishings
+PRD042,VND016,573724.31,5114,2547408.8,22.52,Heavy Duty Desktop Shredder,Office Supplies,95.0,185.0,Metro Office Supplies
+PRD042,VND017,473097.34,5217,2547408.8,18.57,Heavy Duty Desktop Shredder,Office Supplies,95.0,185.0,Global Workspace Solutions
+PRD042,VND018,395007.05,4466,2547408.8,15.51,Heavy Duty Desktop Shredder,Office Supplies,95.0,185.0,Sterling Stationery Ltd
+PRD042,VND019,659796.72,6701,2547408.8,25.9,Heavy Duty Desktop Shredder,Office Supplies,95.0,185.0,Crestview Ergonomics
+PRD042,VND020,445783.38,5351,2547408.8,17.5,Heavy Duty Desktop Shredder,Office Supplies,95.0,185.0,Omnidesk Furnishings
+PRD043,VND016,259209.8,6896,1000409.09,25.91,Recycled Copy Paper 10 Reams,Office Supplies,32.0,58.0,Metro Office Supplies
+PRD043,VND017,166884.65,5402,1000409.09,16.68,Recycled Copy Paper 10 Reams,Office Supplies,32.0,58.0,Global Workspace Solutions
+PRD043,VND018,158371.13,5342,1000409.09,15.83,Recycled Copy Paper 10 Reams,Office Supplies,32.0,58.0,Sterling Stationery Ltd
+PRD043,VND019,220044.81,6659,1000409.09,22.0,Recycled Copy Paper 10 Reams,Office Supplies,32.0,58.0,Crestview Ergonomics
+PRD043,VND020,195898.7,6962,1000409.09,19.58,Recycled Copy Paper 10 Reams,Office Supplies,32.0,58.0,Omnidesk Furnishings
+PRD044,VND016,672472.76,5150,3427819.53,19.62,Thermal Label Printer Pro,Office Supplies,110.0,219.0,Metro Office Supplies
+PRD044,VND017,586398.64,5557,3427819.53,17.11,Thermal Label Printer Pro,Office Supplies,110.0,219.0,Global Workspace Solutions
+PRD044,VND018,733772.67,7214,3427819.53,21.41,Thermal Label Printer Pro,Office Supplies,110.0,219.0,Sterling Stationery Ltd
+PRD044,VND019,762685.41,6668,3427819.53,22.25,Thermal Label Printer Pro,Office Supplies,110.0,219.0,Crestview Ergonomics
+PRD044,VND020,672490.05,6939,3427819.53,19.62,Thermal Label Printer Pro,Office Supplies,110.0,219.0,Omnidesk Furnishings
+PRD045,VND016,249320.57,5042,1197366.56,20.82,Acoustic Desk Privacy Screen,Office Supplies,42.0,85.0,Metro Office Supplies
+PRD045,VND017,252223.47,6194,1197366.56,21.06,Acoustic Desk Privacy Screen,Office Supplies,42.0,85.0,Global Workspace Solutions
+PRD045,VND018,248508.81,6350,1197366.56,20.75,Acoustic Desk Privacy Screen,Office Supplies,42.0,85.0,Sterling Stationery Ltd
+PRD045,VND019,224152.27,5170,1197366.56,18.72,Acoustic Desk Privacy Screen,Office Supplies,42.0,85.0,Crestview Ergonomics
+PRD045,VND020,223161.44,6076,1197366.56,18.64,Acoustic Desk Privacy Screen,Office Supplies,42.0,85.0,Omnidesk Furnishings
+PRD046,VND016,417913.61,6433,1546402.04,27.02,High-Yield Toner Cartridge Black,Office Supplies,55.0,115.0,Metro Office Supplies
+PRD046,VND017,373866.44,7097,1546402.04,24.18,High-Yield Toner Cartridge Black,Office Supplies,55.0,115.0,Global Workspace Solutions
+PRD046,VND018,258751.22,5057,1546402.04,16.73,High-Yield Toner Cartridge Black,Office Supplies,55.0,115.0,Sterling Stationery Ltd
+PRD046,VND019,294483.41,5182,1546402.04,19.04,High-Yield Toner Cartridge Black,Office Supplies,55.0,115.0,Crestview Ergonomics
+PRD046,VND020,201387.36,4112,1546402.04,13.02,High-Yield Toner Cartridge Black,Office Supplies,55.0,115.0,Omnidesk Furnishings
+PRD047,VND016,110171.93,5188,510932.1,21.56,Wireless Presentation Remote,Office Supplies,18.0,39.0,Metro Office Supplies
+PRD047,VND017,89210.79000000001,5155,510932.1,17.46,Wireless Presentation Remote,Office Supplies,18.0,39.0,Global Workspace Solutions
+PRD047,VND018,87982.73,5250,510932.1,17.22,Wireless Presentation Remote,Office Supplies,18.0,39.0,Sterling Stationery Ltd
+PRD047,VND019,140841.69,7528,510932.1,27.57,Wireless Presentation Remote,Office Supplies,18.0,39.0,Crestview Ergonomics
+PRD047,VND020,82724.96,5221,510932.1,16.19,Wireless Presentation Remote,Office Supplies,18.0,39.0,Omnidesk Furnishings
+PRD048,VND016,1708001.55,6854,6297131.72,27.12,Executive Leather Conference Chair,Office Supplies,210.0,420.0,Metro Office Supplies
+PRD048,VND017,890654.87,4427,6297131.72,14.14,Executive Leather Conference Chair,Office Supplies,210.0,420.0,Global Workspace Solutions
+PRD048,VND018,1232735.3,6300,6297131.72,19.58,Executive Leather Conference Chair,Office Supplies,210.0,420.0,Sterling Stationery Ltd
+PRD048,VND019,1292661.69,5867,6297131.72,20.53,Executive Leather Conference Chair,Office Supplies,210.0,420.0,Crestview Ergonomics
+PRD048,VND020,1173078.31,6347,6297131.72,18.63,Executive Leather Conference Chair,Office Supplies,210.0,420.0,Omnidesk Furnishings
+PRD049,VND016,111762.85,6512,468050.14,23.88,Cable Management Raceway Kit,Office Supplies,14.5,32.0,Metro Office Supplies
+PRD049,VND017,98237.69,7074,468050.14,20.99,Cable Management Raceway Kit,Office Supplies,14.5,32.0,Global Workspace Solutions
+PRD049,VND018,86759.3,6412,468050.14,18.54,Cable Management Raceway Kit,Office Supplies,14.5,32.0,Sterling Stationery Ltd
+PRD049,VND019,91751.86,6116,468050.14,19.6,Cable Management Raceway Kit,Office Supplies,14.5,32.0,Crestview Ergonomics
+PRD049,VND020,79538.44,6246,468050.14,16.99,Cable Management Raceway Kit,Office Supplies,14.5,32.0,Omnidesk Furnishings
+PRD050,VND021,35480.76,32320,200448.51,17.7,Corrugated Shipping Box 12x12x12,Packaging,1.2,2.5,Pacific Corrugated Packaging
+PRD050,VND022,50585.37,36440,200448.51,25.24,Corrugated Shipping Box 12x12x12,Packaging,1.2,2.5,Biowrap Eco Packaging
+PRD050,VND023,43792.57,35263,200448.51,21.85,Corrugated Shipping Box 12x12x12,Packaging,1.2,2.5,Securepak Industrial
+PRD050,VND024,34888.16,31906,200448.51,17.41,Corrugated Shipping Box 12x12x12,Packaging,1.2,2.5,Flexifilm Polymers
+PRD050,VND025,35701.65,30114,200448.51,17.81,Corrugated Shipping Box 12x12x12,Packaging,1.2,2.5,Eurobox Container Logistics
+PRD051,VND021,118197.72,46107,532848.16,22.18,Heavy Duty Double Wall Box 24x18,Packaging,2.8,5.9,Pacific Corrugated Packaging
+PRD051,VND022,94107.01,28898,532848.16,17.66,Heavy Duty Double Wall Box 24x18,Packaging,2.8,5.9,Biowrap Eco Packaging
+PRD051,VND023,102694.23,35122,532848.16,19.27,Heavy Duty Double Wall Box 24x18,Packaging,2.8,5.9,Securepak Industrial
+PRD051,VND024,94084.1,36963,532848.16,17.66,Heavy Duty Double Wall Box 24x18,Packaging,2.8,5.9,Flexifilm Polymers
+PRD051,VND025,123765.1,44882,532848.16,23.23,Heavy Duty Double Wall Box 24x18,Packaging,2.8,5.9,Eurobox Container Logistics
+PRD052,VND021,1111622.94,46706,4865951.86,22.84,Biodegradable Air Pillow Roll,Packaging,26.0,52.0,Pacific Corrugated Packaging
+PRD052,VND022,1158368.2,38662,4865951.86,23.81,Biodegradable Air Pillow Roll,Packaging,26.0,52.0,Biowrap Eco Packaging
+PRD052,VND023,968288.02,36046,4865951.86,19.9,Biodegradable Air Pillow Roll,Packaging,26.0,52.0,Securepak Industrial
+PRD052,VND024,848986.46,35944,4865951.86,17.45,Biodegradable Air Pillow Roll,Packaging,26.0,52.0,Flexifilm Polymers
+PRD052,VND025,778686.24,30209,4865951.86,16.0,Biodegradable Air Pillow Roll,Packaging,26.0,52.0,Eurobox Container Logistics
+PRD053,VND021,1108463.11,29100,6719614.76,16.5,Stretch Wrap Film 80 Gauge 4pk,Packaging,42.0,84.0,Pacific Corrugated Packaging
+PRD053,VND022,1614805.74,33215,6719614.76,24.03,Stretch Wrap Film 80 Gauge 4pk,Packaging,42.0,84.0,Biowrap Eco Packaging
+PRD053,VND023,1755152.68,40914,6719614.76,26.12,Stretch Wrap Film 80 Gauge 4pk,Packaging,42.0,84.0,Securepak Industrial
+PRD053,VND024,1076234.34,27657,6719614.76,16.02,Stretch Wrap Film 80 Gauge 4pk,Packaging,42.0,84.0,Flexifilm Polymers
+PRD053,VND025,1164958.89,28005,6719614.76,17.34,Stretch Wrap Film 80 Gauge 4pk,Packaging,42.0,84.0,Eurobox Container Logistics
+PRD054,VND021,789432.03,25512,6114955.9,12.91,Reinforced Kraft Water Tape 6pk,Packaging,34.0,68.0,Pacific Corrugated Packaging
+PRD054,VND022,1310080.87,33191,6114955.9,21.42,Reinforced Kraft Water Tape 6pk,Packaging,34.0,68.0,Biowrap Eco Packaging
+PRD054,VND023,1235580.59,35334,6114955.9,20.21,Reinforced Kraft Water Tape 6pk,Packaging,34.0,68.0,Securepak Industrial
+PRD054,VND024,1154316.68,37406,6114955.9,18.88,Reinforced Kraft Water Tape 6pk,Packaging,34.0,68.0,Flexifilm Polymers
+PRD054,VND025,1625545.73,48530,6114955.9,26.58,Reinforced Kraft Water Tape 6pk,Packaging,34.0,68.0,Eurobox Container Logistics
+PRD055,VND021,1692138.03,29677,10610630.98,15.95,Thermal Insulated Box Liner 50pk,Packaging,62.0,125.0,Pacific Corrugated Packaging
+PRD055,VND022,2531618.85,35563,10610630.98,23.86,Thermal Insulated Box Liner 50pk,Packaging,62.0,125.0,Biowrap Eco Packaging
+PRD055,VND023,1893447.54,29580,10610630.98,17.84,Thermal Insulated Box Liner 50pk,Packaging,62.0,125.0,Securepak Industrial
+PRD055,VND024,1338795.79,23840,10610630.98,12.62,Thermal Insulated Box Liner 50pk,Packaging,62.0,125.0,Flexifilm Polymers
+PRD055,VND025,3154630.77,51566,10610630.98,29.73,Thermal Insulated Box Liner 50pk,Packaging,62.0,125.0,Eurobox Container Logistics
+PRD056,VND021,542043.56,35849,3569084.39,15.19,Anti-Static Bubble Pouch 8x10,Packaging,16.5,35.0,Pacific Corrugated Packaging
+PRD056,VND022,966873.46,49963,3569084.39,27.09,Anti-Static Bubble Pouch 8x10,Packaging,16.5,35.0,Biowrap Eco Packaging
+PRD056,VND023,730482.64,42646,3569084.39,20.47,Anti-Static Bubble Pouch 8x10,Packaging,16.5,35.0,Securepak Industrial
+PRD056,VND024,567397.1,37689,3569084.39,15.9,Anti-Static Bubble Pouch 8x10,Packaging,16.5,35.0,Flexifilm Polymers
+PRD056,VND025,762287.63,46727,3569084.39,21.36,Anti-Static Bubble Pouch 8x10,Packaging,16.5,35.0,Eurobox Container Logistics
+PRD057,VND021,1306410.16,37763,7042454.12,18.55,Molded Pulp Corner Guards 500pk,Packaging,38.0,76.0,Pacific Corrugated Packaging
+PRD057,VND022,1151574.28,26130,7042454.12,16.35,Molded Pulp Corner Guards 500pk,Packaging,38.0,76.0,Biowrap Eco Packaging
+PRD057,VND023,1558503.23,39976,7042454.12,22.13,Molded Pulp Corner Guards 500pk,Packaging,38.0,76.0,Securepak Industrial
+PRD057,VND024,1522218.66,43589,7042454.12,21.61,Molded Pulp Corner Guards 500pk,Packaging,38.0,76.0,Flexifilm Polymers
+PRD057,VND025,1503747.79,39952,7042454.12,21.35,Molded Pulp Corner Guards 500pk,Packaging,38.0,76.0,Eurobox Container Logistics
+PRD058,VND021,1799027.49,40670,8699124.87,20.68,High-Tension Poly Strapping Roll,Packaging,48.0,96.0,Pacific Corrugated Packaging
+PRD058,VND022,1989774.96,35731,8699124.87,22.87,High-Tension Poly Strapping Roll,Packaging,48.0,96.0,Biowrap Eco Packaging
+PRD058,VND023,1908686.57,38352,8699124.87,21.94,High-Tension Poly Strapping Roll,Packaging,48.0,96.0,Securepak Industrial
+PRD058,VND024,1418374.89,32383,8699124.87,16.3,High-Tension Poly Strapping Roll,Packaging,48.0,96.0,Flexifilm Polymers
+PRD058,VND025,1583260.96,33977,8699124.87,18.2,High-Tension Poly Strapping Roll,Packaging,48.0,96.0,Eurobox Container Logistics
+PRD059,VND021,481320.49,37562,2841478.98,16.94,Compostable Poly Mailer 10x13,Packaging,14.0,29.5,Pacific Corrugated Packaging
+PRD059,VND022,887810.49,54241,2841478.98,31.24,Compostable Poly Mailer 10x13,Packaging,14.0,29.5,Biowrap Eco Packaging
+PRD059,VND023,526853.48,36123,2841478.98,18.54,Compostable Poly Mailer 10x13,Packaging,14.0,29.5,Securepak Industrial
+PRD059,VND024,412520.16,32175,2841478.98,14.52,Compostable Poly Mailer 10x13,Packaging,14.0,29.5,Flexifilm Polymers
+PRD059,VND025,532974.36,38722,2841478.98,18.76,Compostable Poly Mailer 10x13,Packaging,14.0,29.5,Eurobox Container Logistics
+PRD060,VND021,3140130.77,40095,16968985.45,18.51,Heavy Duty Pallet Stretch Hood,Packaging,85.0,165.0,Pacific Corrugated Packaging
+PRD060,VND022,4055963.32,40918,16968985.45,23.9,Heavy Duty Pallet Stretch Hood,Packaging,85.0,165.0,Biowrap Eco Packaging
+PRD060,VND023,3962944.47,45195,16968985.45,23.35,Heavy Duty Pallet Stretch Hood,Packaging,85.0,165.0,Securepak Industrial
+PRD060,VND024,3017975.97,39074,16968985.45,17.79,Heavy Duty Pallet Stretch Hood,Packaging,85.0,165.0,Flexifilm Polymers
+PRD060,VND025,2791970.92,33137,16968985.45,16.45,Heavy Duty Pallet Stretch Hood,Packaging,85.0,165.0,Eurobox Container Logistics

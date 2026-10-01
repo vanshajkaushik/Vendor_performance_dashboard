@@ -1,0 +1,521 @@
+product_id,product_code,product_name,category_id,category_name,subcategory,unit,standard_cost,selling_price,status
+PRD-0001,SKU-ELE-001,Sensors Model-001 Ele,CAT-001,Electronics,Sensors,Each,153.52,283.64,Active
+PRD-0002,SKU-ELE-002,Sensors Model-002 Ele,CAT-001,Electronics,Sensors,Each,128.32,214.58,Active
+PRD-0003,SKU-ELE-003,Sensors Model-003 Ele,CAT-001,Electronics,Sensors,Each,93.98,138.38,Active
+PRD-0004,SKU-ELE-004,Circuit Boards Model-004 Ele,CAT-001,Electronics,Circuit Boards,Each,115.92,213.96,Active
+PRD-0005,SKU-ELE-005,Power Systems Model-005 Ele,CAT-001,Electronics,Power Systems,Each,71.32,109.11,Active
+PRD-0006,SKU-ELE-006,Displays Model-006 Ele,CAT-001,Electronics,Displays,Each,102.56,179.86,Active
+PRD-0007,SKU-ELE-007,Passive Components Model-007 Ele,CAT-001,Electronics,Passive Components,Each,212.1,421.72,Active
+PRD-0008,SKU-ELE-008,Circuit Boards Model-008 Ele,CAT-001,Electronics,Circuit Boards,Each,109.32,176.72,Active
+PRD-0009,SKU-ELE-009,Sensors Model-009 Ele,CAT-001,Electronics,Sensors,Each,12.84,22.09,Active
+PRD-0010,SKU-ELE-010,Sensors Model-010 Ele,CAT-001,Electronics,Sensors,Each,23.57,33.77,Active
+PRD-0011,SKU-ELE-011,Sensors Model-011 Ele,CAT-001,Electronics,Sensors,Each,246.52,363.81,Active
+PRD-0012,SKU-ELE-012,Displays Model-012 Ele,CAT-001,Electronics,Displays,Each,43.08,60.63,Active
+PRD-0013,SKU-ELE-013,Sensors Model-013 Ele,CAT-001,Electronics,Sensors,Each,168.53,280.48,Active
+PRD-0014,SKU-ELE-014,Circuit Boards Model-014 Ele,CAT-001,Electronics,Circuit Boards,Each,338.2,524.71,Active
+PRD-0015,SKU-ELE-015,Displays Model-015 Ele,CAT-001,Electronics,Displays,Each,47.02,67.67,Active
+PRD-0016,SKU-ELE-016,Displays Model-016 Ele,CAT-001,Electronics,Displays,Each,33.34,59.27,Active
+PRD-0017,SKU-ELE-017,Semiconductors Model-017 Ele,CAT-001,Electronics,Semiconductors,Each,59.89,112.99,Active
+PRD-0018,SKU-ELE-018,Sensors Model-018 Ele,CAT-001,Electronics,Sensors,Each,37.13,57.51,Active
+PRD-0019,SKU-ELE-019,Passive Components Model-019 Ele,CAT-001,Electronics,Passive Components,Each,269.44,475.24,Active
+PRD-0020,SKU-ELE-020,Passive Components Model-020 Ele,CAT-001,Electronics,Passive Components,Each,85.19,145.98,Active
+PRD-0021,SKU-ELE-021,Displays Model-021 Ele,CAT-001,Electronics,Displays,Each,318.71,503.06,Active
+PRD-0022,SKU-ELE-022,Passive Components Model-022 Ele,CAT-001,Electronics,Passive Components,Each,346.59,548.73,Active
+PRD-0023,SKU-ELE-023,Passive Components Model-023 Ele,CAT-001,Electronics,Passive Components,Each,28.6,56.52,Active
+PRD-0024,SKU-ELE-024,Semiconductors Model-024 Ele,CAT-001,Electronics,Semiconductors,Each,332.08,506.31,Active
+PRD-0025,SKU-ELE-025,Circuit Boards Model-025 Ele,CAT-001,Electronics,Circuit Boards,Each,98.51,142.71,Active
+PRD-0026,SKU-ELE-026,Circuit Boards Model-026 Ele,CAT-001,Electronics,Circuit Boards,Each,67.44,97.45,Active
+PRD-0027,SKU-ELE-027,Semiconductors Model-027 Ele,CAT-001,Electronics,Semiconductors,Each,147.71,267.89,Active
+PRD-0028,SKU-ELE-028,Displays Model-028 Ele,CAT-001,Electronics,Displays,Each,107.61,165.6,Active
+PRD-0029,SKU-ELE-029,Power Systems Model-029 Ele,CAT-001,Electronics,Power Systems,Each,104.69,200.56,Active
+PRD-0030,SKU-ELE-030,Semiconductors Model-030 Ele,CAT-001,Electronics,Semiconductors,Each,243.09,475.08,Active
+PRD-0031,SKU-ELE-031,Power Systems Model-031 Ele,CAT-001,Electronics,Power Systems,Each,209.71,394.75,Active
+PRD-0032,SKU-ELE-032,Circuit Boards Model-032 Ele,CAT-001,Electronics,Circuit Boards,Each,153.4,264.88,Active
+PRD-0033,SKU-ELE-033,Power Systems Model-033 Ele,CAT-001,Electronics,Power Systems,Each,58.95,91.93,Active
+PRD-0034,SKU-ELE-034,Circuit Boards Model-034 Ele,CAT-001,Electronics,Circuit Boards,Each,32.42,48.62,Active
+PRD-0035,SKU-ELE-035,Sensors Model-035 Ele,CAT-001,Electronics,Sensors,Each,211.51,400.72,Active
+PRD-0036,SKU-ELE-036,Sensors Model-036 Ele,CAT-001,Electronics,Sensors,Each,158.19,265.95,Active
+PRD-0037,SKU-ELE-037,Sensors Model-037 Ele,CAT-001,Electronics,Sensors,Each,247.31,486.11,Active
+PRD-0038,SKU-ELE-038,Passive Components Model-038 Ele,CAT-001,Electronics,Passive Components,Each,192.67,320.34,Active
+PRD-0039,SKU-ELE-039,Passive Components Model-039 Ele,CAT-001,Electronics,Passive Components,Each,21.63,35.89,Active
+PRD-0040,SKU-ELE-040,Sensors Model-040 Ele,CAT-001,Electronics,Sensors,Each,214.47,303.59,Active
+PRD-0041,SKU-ELE-041,Circuit Boards Model-041 Ele,CAT-001,Electronics,Circuit Boards,Each,336.97,640.77,Active
+PRD-0042,SKU-ELE-042,Passive Components Model-042 Ele,CAT-001,Electronics,Passive Components,Each,208.8,294.92,Active
+PRD-0043,SKU-ELE-043,Power Systems Model-043 Ele,CAT-001,Electronics,Power Systems,Each,288.93,504.4,Active
+PRD-0044,SKU-ELE-044,Circuit Boards Model-044 Ele,CAT-001,Electronics,Circuit Boards,Each,168.91,302.5,Active
+PRD-0045,SKU-ELE-045,Sensors Model-045 Ele,CAT-001,Electronics,Sensors,Each,70.07,122.71,Active
+PRD-0046,SKU-ELE-046,Power Systems Model-046 Ele,CAT-001,Electronics,Power Systems,Each,286.47,567.62,Active
+PRD-0047,SKU-ELE-047,Displays Model-047 Ele,CAT-001,Electronics,Displays,Each,127.0,203.2,Active
+PRD-0048,SKU-ELE-048,Power Systems Model-048 Ele,CAT-001,Electronics,Power Systems,Each,43.77,65.5,Active
+PRD-0049,SKU-ELE-049,Displays Model-049 Ele,CAT-001,Electronics,Displays,Each,245.24,385.75,Active
+PRD-0050,SKU-ELE-050,Displays Model-050 Ele,CAT-001,Electronics,Displays,Each,286.24,495.21,Active
+PRD-0051,SKU-ELE-051,Displays Model-051 Ele,CAT-001,Electronics,Displays,Each,38.12,59.14,Active
+PRD-0052,SKU-ELE-052,Semiconductors Model-052 Ele,CAT-001,Electronics,Semiconductors,Each,339.8,558.12,Active
+PRD-0053,SKU-ELE-053,Passive Components Model-053 Ele,CAT-001,Electronics,Passive Components,Each,290.13,406.38,Active
+PRD-0054,SKU-ELE-054,Passive Components Model-054 Ele,CAT-001,Electronics,Passive Components,Each,166.0,237.8,Active
+PRD-0055,SKU-ELE-055,Passive Components Model-055 Ele,CAT-001,Electronics,Passive Components,Each,131.73,244.21,Active
+PRD-0056,SKU-ELE-056,Power Systems Model-056 Ele,CAT-001,Electronics,Power Systems,Each,159.18,227.78,Active
+PRD-0057,SKU-ELE-057,Sensors Model-057 Ele,CAT-001,Electronics,Sensors,Each,195.83,383.16,Active
+PRD-0058,SKU-ELE-058,Displays Model-058 Ele,CAT-001,Electronics,Displays,Each,309.25,522.89,Active
+PRD-0059,SKU-ELE-059,Semiconductors Model-059 Ele,CAT-001,Electronics,Semiconductors,Each,340.82,601.66,Active
+PRD-0060,SKU-ELE-060,Circuit Boards Model-060 Ele,CAT-001,Electronics,Circuit Boards,Each,250.75,397.8,Active
+PRD-0061,SKU-ELE-061,Semiconductors Model-061 Ele,CAT-001,Electronics,Semiconductors,Each,196.87,286.63,Active
+PRD-0062,SKU-ELE-062,Semiconductors Model-062 Ele,CAT-001,Electronics,Semiconductors,Each,165.82,243.83,Active
+PRD-0063,SKU-ELE-063,Circuit Boards Model-063 Ele,CAT-001,Electronics,Circuit Boards,Each,178.44,326.54,Active
+PRD-0064,SKU-ELE-064,Passive Components Model-064 Ele,CAT-001,Electronics,Passive Components,Each,249.25,411.09,Active
+PRD-0065,SKU-ELE-065,Displays Model-065 Ele,CAT-001,Electronics,Displays,Each,343.24,530.73,Active
+PRD-0066,SKU-ELE-066,Passive Components Model-066 Ele,CAT-001,Electronics,Passive Components,Each,57.47,87.03,Active
+PRD-0067,SKU-ELE-067,Passive Components Model-067 Ele,CAT-001,Electronics,Passive Components,Each,181.82,350.48,Active
+PRD-0068,SKU-ELE-068,Semiconductors Model-068 Ele,CAT-001,Electronics,Semiconductors,Each,102.48,192.05,Active
+PRD-0069,SKU-ELE-069,Displays Model-069 Ele,CAT-001,Electronics,Displays,Each,124.24,232.66,Active
+PRD-0070,SKU-ELE-070,Sensors Model-070 Ele,CAT-001,Electronics,Sensors,Each,288.63,453.06,Active
+PRD-0071,SKU-ELE-071,Sensors Model-071 Ele,CAT-001,Electronics,Sensors,Each,294.42,514.63,Active
+PRD-0072,SKU-ELE-072,Power Systems Model-072 Ele,CAT-001,Electronics,Power Systems,Each,175.46,261.29,Active
+PRD-0073,SKU-ELE-073,Passive Components Model-073 Ele,CAT-001,Electronics,Passive Components,Each,173.64,277.73,Active
+PRD-0074,SKU-ELE-074,Passive Components Model-074 Ele,CAT-001,Electronics,Passive Components,Each,137.01,268.5,Active
+PRD-0075,SKU-ELE-075,Circuit Boards Model-075 Ele,CAT-001,Electronics,Circuit Boards,Each,343.42,529.99,Active
+PRD-0076,SKU-ELE-076,Displays Model-076 Ele,CAT-001,Electronics,Displays,Each,87.88,163.92,Active
+PRD-0077,SKU-ELE-077,Semiconductors Model-077 Ele,CAT-001,Electronics,Semiconductors,Each,116.82,196.7,Active
+PRD-0078,SKU-ELE-078,Displays Model-078 Ele,CAT-001,Electronics,Displays,Each,140.04,251.82,Active
+PRD-0079,SKU-ELE-079,Power Systems Model-079 Ele,CAT-001,Electronics,Power Systems,Each,343.44,582.89,Active
+PRD-0080,SKU-ELE-080,Semiconductors Model-080 Ele,CAT-001,Electronics,Semiconductors,Each,51.18,101.3,Active
+PRD-0081,SKU-ELE-081,Sensors Model-081 Ele,CAT-001,Electronics,Sensors,Each,305.44,587.82,Active
+PRD-0082,SKU-ELE-082,Displays Model-082 Ele,CAT-001,Electronics,Displays,Each,42.1,81.94,Active
+PRD-0083,SKU-ELE-083,Semiconductors Model-083 Ele,CAT-001,Electronics,Semiconductors,Each,255.08,419.86,Active
+PRD-0084,SKU-ELE-084,Power Systems Model-084 Ele,CAT-001,Electronics,Power Systems,Each,339.73,490.87,Active
+PRD-0085,SKU-ELE-085,Sensors Model-085 Ele,CAT-001,Electronics,Sensors,Each,123.79,224.76,Active
+PRD-0086,SKU-ELE-086,Power Systems Model-086 Ele,CAT-001,Electronics,Power Systems,Each,35.47,56.65,Active
+PRD-0087,SKU-ELE-087,Power Systems Model-087 Ele,CAT-001,Electronics,Power Systems,Each,301.9,491.49,Active
+PRD-0088,SKU-ELE-088,Sensors Model-088 Ele,CAT-001,Electronics,Sensors,Each,222.37,429.72,Active
+PRD-0089,SKU-ELE-089,Displays Model-089 Ele,CAT-001,Electronics,Displays,Each,306.35,435.49,Active
+PRD-0090,SKU-ELE-090,Semiconductors Model-090 Ele,CAT-001,Electronics,Semiconductors,Each,88.29,159.86,Active
+PRD-0091,SKU-ELE-091,Sensors Model-091 Ele,CAT-001,Electronics,Sensors,Each,349.12,645.19,Active
+PRD-0092,SKU-ELE-092,Displays Model-092 Ele,CAT-001,Electronics,Displays,Each,342.59,635.92,Active
+PRD-0093,SKU-ELE-093,Power Systems Model-093 Ele,CAT-001,Electronics,Power Systems,Each,306.42,510.56,Active
+PRD-0094,SKU-ELE-094,Power Systems Model-094 Ele,CAT-001,Electronics,Power Systems,Each,110.42,156.51,Active
+PRD-0095,SKU-ELE-095,Sensors Model-095 Ele,CAT-001,Electronics,Sensors,Each,280.28,441.73,Active
+PRD-0096,SKU-ELE-096,Sensors Model-096 Ele,CAT-001,Electronics,Sensors,Each,155.29,240.16,Active
+PRD-0097,SKU-ELE-097,Displays Model-097 Ele,CAT-001,Electronics,Displays,Each,201.55,378.01,Active
+PRD-0098,SKU-ELE-098,Circuit Boards Model-098 Ele,CAT-001,Electronics,Circuit Boards,Each,67.87,119.84,Active
+PRD-0099,SKU-ELE-099,Displays Model-099 Ele,CAT-001,Electronics,Displays,Each,219.94,339.7,Active
+PRD-0100,SKU-ELE-100,Passive Components Model-100 Ele,CAT-001,Electronics,Passive Components,Each,56.95,95.49,Active
+PRD-0101,SKU-ELE-101,Sensors Model-101 Ele,CAT-001,Electronics,Sensors,Each,165.17,297.32,Active
+PRD-0102,SKU-ELE-102,Displays Model-102 Ele,CAT-001,Electronics,Displays,Each,316.21,571.25,Active
+PRD-0103,SKU-ELE-103,Circuit Boards Model-103 Ele,CAT-001,Electronics,Circuit Boards,Each,33.26,65.43,Active
+PRD-0104,SKU-ELE-104,Passive Components Model-104 Ele,CAT-001,Electronics,Passive Components,Each,110.31,218.11,Active
+PRD-0105,SKU-IND-001,Pumps Model-001 Ind,CAT-002,Industrial Machinery,Pumps,Each,271.34,567.57,Active
+PRD-0106,SKU-IND-002,Drives & Motors Model-002 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,949.43,1991.27,Active
+PRD-0107,SKU-IND-003,Hydraulics Model-003 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,259.67,493.46,Active
+PRD-0108,SKU-IND-004,Instrumentation Model-004 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,312.76,622.23,Active
+PRD-0109,SKU-IND-005,Hydraulics Model-005 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,930.04,1823.59,Active
+PRD-0110,SKU-IND-006,Pneumatics Model-006 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,52.33,110.18,Active
+PRD-0111,SKU-IND-007,Pumps Model-007 Ind,CAT-002,Industrial Machinery,Pumps,Each,926.11,1979.5,Active
+PRD-0112,SKU-IND-008,Pumps Model-008 Ind,CAT-002,Industrial Machinery,Pumps,Each,494.54,1054.81,Active
+PRD-0113,SKU-IND-009,Pneumatics Model-009 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,747.05,1240.91,Active
+PRD-0114,SKU-IND-010,Pneumatics Model-010 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,243.2,397.17,Active
+PRD-0115,SKU-IND-011,Pneumatics Model-011 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,658.38,1319.82,Active
+PRD-0116,SKU-IND-012,Pumps Model-012 Ind,CAT-002,Industrial Machinery,Pumps,Each,661.17,1055.06,Active
+PRD-0117,SKU-IND-013,Hydraulics Model-013 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,862.58,1684.13,Active
+PRD-0118,SKU-IND-014,Pneumatics Model-014 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,758.69,1155.75,Active
+PRD-0119,SKU-IND-015,Pneumatics Model-015 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,707.79,1106.34,Active
+PRD-0120,SKU-IND-016,Pneumatics Model-016 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,340.68,610.11,Active
+PRD-0121,SKU-IND-017,Drives & Motors Model-017 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,164.6,309.05,Active
+PRD-0122,SKU-IND-018,Pneumatics Model-018 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,525.42,1124.11,Active
+PRD-0123,SKU-IND-019,Drives & Motors Model-019 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,277.56,576.57,Active
+PRD-0124,SKU-IND-020,Bearings & Seals Model-020 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,920.48,1570.89,Active
+PRD-0125,SKU-IND-021,Pneumatics Model-021 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,772.83,1412.6,Active
+PRD-0126,SKU-IND-022,Hydraulics Model-022 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,172.39,375.22,Active
+PRD-0127,SKU-IND-023,Pumps Model-023 Ind,CAT-002,Industrial Machinery,Pumps,Each,700.42,1531.09,Active
+PRD-0128,SKU-IND-024,Instrumentation Model-024 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,376.03,772.17,Active
+PRD-0129,SKU-IND-025,Hydraulics Model-025 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,284.34,451.11,Active
+PRD-0130,SKU-IND-026,Pneumatics Model-026 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,653.91,1288.62,Active
+PRD-0131,SKU-IND-027,Instrumentation Model-027 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,389.83,758.99,Active
+PRD-0132,SKU-IND-028,Pneumatics Model-028 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,143.05,237.99,Active
+PRD-0133,SKU-IND-029,Hydraulics Model-029 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,605.69,1308.42,Active
+PRD-0134,SKU-IND-030,Pneumatics Model-030 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,873.31,1445.29,Active
+PRD-0135,SKU-IND-031,Hydraulics Model-031 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,620.04,1131.57,Active
+PRD-0136,SKU-IND-032,Pumps Model-032 Ind,CAT-002,Industrial Machinery,Pumps,Each,318.48,568.74,Active
+PRD-0137,SKU-IND-033,Drives & Motors Model-033 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,86.04,131.3,Active
+PRD-0138,SKU-IND-034,Bearings & Seals Model-034 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,150.09,249.8,Active
+PRD-0139,SKU-IND-035,Instrumentation Model-035 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,167.78,304.95,Active
+PRD-0140,SKU-IND-036,Pumps Model-036 Ind,CAT-002,Industrial Machinery,Pumps,Each,904.19,1797.11,Active
+PRD-0141,SKU-IND-037,Instrumentation Model-037 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,424.31,856.93,Active
+PRD-0142,SKU-IND-038,Drives & Motors Model-038 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,846.3,1657.43,Active
+PRD-0143,SKU-IND-039,Bearings & Seals Model-039 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,602.17,1299.08,Active
+PRD-0144,SKU-IND-040,Pneumatics Model-040 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,74.61,131.27,Active
+PRD-0145,SKU-IND-041,Bearings & Seals Model-041 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,447.45,745.13,Active
+PRD-0146,SKU-IND-042,Pneumatics Model-042 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,134.92,267.14,Active
+PRD-0147,SKU-IND-043,Instrumentation Model-043 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,861.04,1680.22,Active
+PRD-0148,SKU-IND-044,Hydraulics Model-044 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,405.32,661.83,Active
+PRD-0149,SKU-IND-045,Hydraulics Model-045 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,903.85,1877.24,Active
+PRD-0150,SKU-IND-046,Hydraulics Model-046 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,644.81,1256.86,Active
+PRD-0151,SKU-IND-047,Instrumentation Model-047 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,923.84,1418.47,Active
+PRD-0152,SKU-IND-048,Pneumatics Model-048 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,265.43,421.54,Active
+PRD-0153,SKU-IND-049,Instrumentation Model-049 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,230.71,480.08,Active
+PRD-0154,SKU-IND-050,Instrumentation Model-050 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,232.48,383.86,Active
+PRD-0155,SKU-IND-051,Drives & Motors Model-051 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,342.35,548.89,Active
+PRD-0156,SKU-IND-052,Instrumentation Model-052 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,47.57,99.94,Active
+PRD-0157,SKU-IND-053,Drives & Motors Model-053 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,938.71,1763.04,Active
+PRD-0158,SKU-IND-054,Drives & Motors Model-054 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,144.48,304.35,Active
+PRD-0159,SKU-IND-055,Drives & Motors Model-055 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,58.45,120.0,Active
+PRD-0160,SKU-IND-056,Drives & Motors Model-056 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,577.91,873.25,Active
+PRD-0161,SKU-IND-057,Pneumatics Model-057 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,92.42,186.61,Active
+PRD-0162,SKU-IND-058,Instrumentation Model-058 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,147.85,228.35,Active
+PRD-0163,SKU-IND-059,Bearings & Seals Model-059 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,749.11,1392.8,Active
+PRD-0164,SKU-IND-060,Hydraulics Model-060 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,454.06,751.51,Active
+PRD-0165,SKU-IND-061,Instrumentation Model-061 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,84.25,172.57,Active
+PRD-0166,SKU-IND-062,Pumps Model-062 Ind,CAT-002,Industrial Machinery,Pumps,Each,516.91,941.1,Active
+PRD-0167,SKU-IND-063,Hydraulics Model-063 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,100.05,183.62,Active
+PRD-0168,SKU-IND-064,Bearings & Seals Model-064 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,430.78,678.73,Active
+PRD-0169,SKU-IND-065,Pumps Model-065 Ind,CAT-002,Industrial Machinery,Pumps,Each,868.28,1347.09,Active
+PRD-0170,SKU-IND-066,Hydraulics Model-066 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,336.51,539.71,Active
+PRD-0171,SKU-IND-067,Drives & Motors Model-067 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,293.89,571.07,Active
+PRD-0172,SKU-IND-068,Instrumentation Model-068 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,689.5,1218.09,Active
+PRD-0173,SKU-IND-069,Instrumentation Model-069 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,525.15,954.51,Active
+PRD-0174,SKU-IND-070,Instrumentation Model-070 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,434.33,892.62,Active
+PRD-0175,SKU-IND-071,Hydraulics Model-071 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,816.78,1597.33,Active
+PRD-0176,SKU-IND-072,Instrumentation Model-072 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,697.36,1151.0,Active
+PRD-0177,SKU-IND-073,Bearings & Seals Model-073 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,848.72,1518.93,Active
+PRD-0178,SKU-IND-074,Bearings & Seals Model-074 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,405.85,816.05,Active
+PRD-0179,SKU-IND-075,Pneumatics Model-075 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,431.22,847.6,Active
+PRD-0180,SKU-IND-076,Pneumatics Model-076 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,908.0,1798.54,Active
+PRD-0181,SKU-IND-077,Bearings & Seals Model-077 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,105.76,220.22,Active
+PRD-0182,SKU-IND-078,Hydraulics Model-078 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,435.85,880.95,Active
+PRD-0183,SKU-IND-079,Pneumatics Model-079 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,779.65,1473.12,Active
+PRD-0184,SKU-IND-080,Instrumentation Model-080 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,910.75,1724.21,Active
+PRD-0185,SKU-IND-081,Pumps Model-081 Ind,CAT-002,Industrial Machinery,Pumps,Each,155.62,271.95,Active
+PRD-0186,SKU-IND-082,Pumps Model-082 Ind,CAT-002,Industrial Machinery,Pumps,Each,896.72,1610.56,Active
+PRD-0187,SKU-IND-083,Pumps Model-083 Ind,CAT-002,Industrial Machinery,Pumps,Each,91.56,155.77,Active
+PRD-0188,SKU-IND-084,Pneumatics Model-084 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,363.24,691.81,Active
+PRD-0189,SKU-IND-085,Drives & Motors Model-085 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,185.03,340.0,Active
+PRD-0190,SKU-IND-086,Hydraulics Model-086 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,361.85,683.67,Active
+PRD-0191,SKU-IND-087,Hydraulics Model-087 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,735.16,1398.18,Active
+PRD-0192,SKU-IND-088,Bearings & Seals Model-088 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,809.87,1767.28,Active
+PRD-0193,SKU-IND-089,Instrumentation Model-089 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,600.28,1170.48,Active
+PRD-0194,SKU-IND-090,Hydraulics Model-090 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,596.14,1168.72,Active
+PRD-0195,SKU-IND-091,Pumps Model-091 Ind,CAT-002,Industrial Machinery,Pumps,Each,287.04,466.81,Active
+PRD-0196,SKU-IND-092,Pumps Model-092 Ind,CAT-002,Industrial Machinery,Pumps,Each,734.98,1576.59,Active
+PRD-0197,SKU-IND-093,Pneumatics Model-093 Ind,CAT-002,Industrial Machinery,Pneumatics,Each,50.53,106.56,Active
+PRD-0198,SKU-IND-094,Instrumentation Model-094 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,639.9,991.02,Active
+PRD-0199,SKU-IND-095,Pumps Model-095 Ind,CAT-002,Industrial Machinery,Pumps,Each,618.02,940.29,Active
+PRD-0200,SKU-IND-096,Pumps Model-096 Ind,CAT-002,Industrial Machinery,Pumps,Each,525.09,925.91,Active
+PRD-0201,SKU-IND-097,Bearings & Seals Model-097 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,353.51,621.84,Active
+PRD-0202,SKU-IND-098,Pumps Model-098 Ind,CAT-002,Industrial Machinery,Pumps,Each,338.57,730.97,Active
+PRD-0203,SKU-IND-099,Instrumentation Model-099 Ind,CAT-002,Industrial Machinery,Instrumentation,Each,121.89,187.32,Active
+PRD-0204,SKU-IND-100,Drives & Motors Model-100 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,727.76,1116.99,Active
+PRD-0205,SKU-IND-101,Hydraulics Model-101 Ind,CAT-002,Industrial Machinery,Hydraulics,Each,291.25,571.83,Active
+PRD-0206,SKU-IND-102,Bearings & Seals Model-102 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,594.4,1063.93,Active
+PRD-0207,SKU-IND-103,Drives & Motors Model-103 Ind,CAT-002,Industrial Machinery,Drives & Motors,Each,728.22,1150.35,Active
+PRD-0208,SKU-IND-104,Bearings & Seals Model-104 Ind,CAT-002,Industrial Machinery,Bearings & Seals,Each,145.36,287.05,Active
+PRD-0209,SKU-RAW-001,Minerals Model-001 Raw,CAT-003,Raw Materials,Minerals,Each,248.98,369.36,Active
+PRD-0210,SKU-RAW-002,Metals Model-002 Raw,CAT-003,Raw Materials,Metals,Each,129.23,206.06,Active
+PRD-0211,SKU-RAW-003,Metals Model-003 Raw,CAT-003,Raw Materials,Metals,Each,33.46,45.35,Active
+PRD-0212,SKU-RAW-004,Chemicals & Polymers Model-004 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,375.31,569.52,Active
+PRD-0213,SKU-RAW-005,Composites Model-005 Raw,CAT-003,Raw Materials,Composites,Each,177.66,222.56,Active
+PRD-0214,SKU-RAW-006,Paper & Pulp Model-006 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,109.06,150.84,Active
+PRD-0215,SKU-RAW-007,Chemicals & Polymers Model-007 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,255.12,393.31,Active
+PRD-0216,SKU-RAW-008,Composites Model-008 Raw,CAT-003,Raw Materials,Composites,Each,62.43,96.87,Active
+PRD-0217,SKU-RAW-009,Metals Model-009 Raw,CAT-003,Raw Materials,Metals,Each,226.3,319.29,Active
+PRD-0218,SKU-RAW-010,Metals Model-010 Raw,CAT-003,Raw Materials,Metals,Each,417.95,606.66,Active
+PRD-0219,SKU-RAW-011,Minerals Model-011 Raw,CAT-003,Raw Materials,Minerals,Each,211.99,312.48,Active
+PRD-0220,SKU-RAW-012,Composites Model-012 Raw,CAT-003,Raw Materials,Composites,Each,81.83,102.88,Active
+PRD-0221,SKU-RAW-013,Composites Model-013 Raw,CAT-003,Raw Materials,Composites,Each,107.34,169.78,Active
+PRD-0222,SKU-RAW-014,Paper & Pulp Model-014 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,404.41,635.7,Active
+PRD-0223,SKU-RAW-015,Metals Model-015 Raw,CAT-003,Raw Materials,Metals,Each,226.52,291.54,Active
+PRD-0224,SKU-RAW-016,Paper & Pulp Model-016 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,294.99,422.83,Active
+PRD-0225,SKU-RAW-017,Paper & Pulp Model-017 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,421.74,637.26,Active
+PRD-0226,SKU-RAW-018,Chemicals & Polymers Model-018 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,179.88,235.44,Active
+PRD-0227,SKU-RAW-019,Minerals Model-019 Raw,CAT-003,Raw Materials,Minerals,Each,314.95,452.18,Active
+PRD-0228,SKU-RAW-020,Chemicals & Polymers Model-020 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,437.67,600.61,Active
+PRD-0229,SKU-RAW-021,Chemicals & Polymers Model-021 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,136.32,177.39,Active
+PRD-0230,SKU-RAW-022,Chemicals & Polymers Model-022 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,108.07,140.87,Active
+PRD-0231,SKU-RAW-023,Metals Model-023 Raw,CAT-003,Raw Materials,Metals,Each,109.72,166.83,Active
+PRD-0232,SKU-RAW-024,Paper & Pulp Model-024 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,238.78,345.59,Active
+PRD-0233,SKU-RAW-025,Minerals Model-025 Raw,CAT-003,Raw Materials,Minerals,Each,232.01,365.06,Active
+PRD-0234,SKU-RAW-026,Minerals Model-026 Raw,CAT-003,Raw Materials,Minerals,Each,319.35,509.45,Active
+PRD-0235,SKU-RAW-027,Composites Model-027 Raw,CAT-003,Raw Materials,Composites,Each,418.91,615.6,Active
+PRD-0236,SKU-RAW-028,Chemicals & Polymers Model-028 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,227.89,322.26,Active
+PRD-0237,SKU-RAW-029,Composites Model-029 Raw,CAT-003,Raw Materials,Composites,Each,388.35,565.82,Active
+PRD-0238,SKU-RAW-030,Composites Model-030 Raw,CAT-003,Raw Materials,Composites,Each,258.3,350.94,Active
+PRD-0239,SKU-RAW-031,Paper & Pulp Model-031 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,46.92,64.71,Active
+PRD-0240,SKU-RAW-032,Composites Model-032 Raw,CAT-003,Raw Materials,Composites,Each,64.53,100.18,Active
+PRD-0241,SKU-RAW-033,Metals Model-033 Raw,CAT-003,Raw Materials,Metals,Each,306.75,437.88,Active
+PRD-0242,SKU-RAW-034,Paper & Pulp Model-034 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,291.15,461.18,Active
+PRD-0243,SKU-RAW-035,Metals Model-035 Raw,CAT-003,Raw Materials,Metals,Each,232.38,356.34,Active
+PRD-0244,SKU-RAW-036,Chemicals & Polymers Model-036 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,174.69,247.44,Active
+PRD-0245,SKU-RAW-037,Chemicals & Polymers Model-037 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,460.98,648.91,Active
+PRD-0246,SKU-RAW-038,Composites Model-038 Raw,CAT-003,Raw Materials,Composites,Each,472.07,604.02,Active
+PRD-0247,SKU-RAW-039,Chemicals & Polymers Model-039 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,47.61,71.3,Active
+PRD-0248,SKU-RAW-040,Paper & Pulp Model-040 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,265.83,389.02,Active
+PRD-0249,SKU-RAW-041,Composites Model-041 Raw,CAT-003,Raw Materials,Composites,Each,197.78,266.81,Active
+PRD-0250,SKU-RAW-042,Paper & Pulp Model-042 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,378.51,563.08,Active
+PRD-0251,SKU-RAW-043,Metals Model-043 Raw,CAT-003,Raw Materials,Metals,Each,385.15,568.7,Active
+PRD-0252,SKU-RAW-044,Metals Model-044 Raw,CAT-003,Raw Materials,Metals,Each,178.36,257.78,Active
+PRD-0253,SKU-RAW-045,Paper & Pulp Model-045 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,157.87,237.33,Active
+PRD-0254,SKU-RAW-046,Minerals Model-046 Raw,CAT-003,Raw Materials,Minerals,Each,422.98,578.08,Active
+PRD-0255,SKU-RAW-047,Minerals Model-047 Raw,CAT-003,Raw Materials,Minerals,Each,328.63,516.23,Active
+PRD-0256,SKU-RAW-048,Composites Model-048 Raw,CAT-003,Raw Materials,Composites,Each,465.46,695.62,Active
+PRD-0257,SKU-RAW-049,Paper & Pulp Model-049 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,88.03,131.88,Active
+PRD-0258,SKU-RAW-050,Metals Model-050 Raw,CAT-003,Raw Materials,Metals,Each,169.31,233.96,Active
+PRD-0259,SKU-RAW-051,Composites Model-051 Raw,CAT-003,Raw Materials,Composites,Each,395.93,587.77,Active
+PRD-0260,SKU-RAW-052,Minerals Model-052 Raw,CAT-003,Raw Materials,Minerals,Each,72.05,106.97,Active
+PRD-0261,SKU-RAW-053,Minerals Model-053 Raw,CAT-003,Raw Materials,Minerals,Each,192.82,265.5,Active
+PRD-0262,SKU-RAW-054,Chemicals & Polymers Model-054 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,458.03,627.32,Active
+PRD-0263,SKU-RAW-055,Paper & Pulp Model-055 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,116.4,186.24,Active
+PRD-0264,SKU-RAW-056,Chemicals & Polymers Model-056 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,64.72,100.03,Active
+PRD-0265,SKU-RAW-057,Metals Model-057 Raw,CAT-003,Raw Materials,Metals,Each,258.46,371.9,Active
+PRD-0266,SKU-RAW-058,Minerals Model-058 Raw,CAT-003,Raw Materials,Minerals,Each,46.99,64.28,Active
+PRD-0267,SKU-RAW-059,Minerals Model-059 Raw,CAT-003,Raw Materials,Minerals,Each,88.97,122.94,Active
+PRD-0268,SKU-RAW-060,Chemicals & Polymers Model-060 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,111.38,166.23,Active
+PRD-0269,SKU-RAW-061,Minerals Model-061 Raw,CAT-003,Raw Materials,Minerals,Each,394.07,515.42,Active
+PRD-0270,SKU-RAW-062,Paper & Pulp Model-062 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,49.66,68.41,Active
+PRD-0271,SKU-RAW-063,Chemicals & Polymers Model-063 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,466.31,682.54,Active
+PRD-0272,SKU-RAW-064,Paper & Pulp Model-064 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,135.3,180.45,Active
+PRD-0273,SKU-RAW-065,Paper & Pulp Model-065 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,436.79,575.65,Active
+PRD-0274,SKU-RAW-066,Minerals Model-066 Raw,CAT-003,Raw Materials,Minerals,Each,473.0,667.68,Active
+PRD-0275,SKU-RAW-067,Composites Model-067 Raw,CAT-003,Raw Materials,Composites,Each,380.16,542.11,Active
+PRD-0276,SKU-RAW-068,Paper & Pulp Model-068 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,464.82,713.92,Active
+PRD-0277,SKU-RAW-069,Minerals Model-069 Raw,CAT-003,Raw Materials,Minerals,Each,92.28,123.42,Active
+PRD-0278,SKU-RAW-070,Paper & Pulp Model-070 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,423.35,611.36,Active
+PRD-0279,SKU-RAW-071,Metals Model-071 Raw,CAT-003,Raw Materials,Metals,Each,350.13,500.88,Active
+PRD-0280,SKU-RAW-072,Metals Model-072 Raw,CAT-003,Raw Materials,Metals,Each,158.28,240.13,Active
+PRD-0281,SKU-RAW-073,Composites Model-073 Raw,CAT-003,Raw Materials,Composites,Each,232.19,331.96,Active
+PRD-0282,SKU-RAW-074,Paper & Pulp Model-074 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,71.27,111.8,Active
+PRD-0283,SKU-RAW-075,Paper & Pulp Model-075 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,428.08,674.51,Active
+PRD-0284,SKU-RAW-076,Paper & Pulp Model-076 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,53.97,76.95,Active
+PRD-0285,SKU-RAW-077,Chemicals & Polymers Model-077 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,203.77,260.53,Active
+PRD-0286,SKU-RAW-078,Chemicals & Polymers Model-078 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,42.68,67.25,Active
+PRD-0287,SKU-RAW-079,Composites Model-079 Raw,CAT-003,Raw Materials,Composites,Each,386.12,501.25,Active
+PRD-0288,SKU-RAW-080,Composites Model-080 Raw,CAT-003,Raw Materials,Composites,Each,442.83,626.76,Active
+PRD-0289,SKU-RAW-081,Chemicals & Polymers Model-081 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,371.48,525.34,Active
+PRD-0290,SKU-RAW-082,Minerals Model-082 Raw,CAT-003,Raw Materials,Minerals,Each,32.36,41.35,Active
+PRD-0291,SKU-RAW-083,Composites Model-083 Raw,CAT-003,Raw Materials,Composites,Each,127.04,165.45,Active
+PRD-0292,SKU-RAW-084,Minerals Model-084 Raw,CAT-003,Raw Materials,Minerals,Each,267.5,344.78,Active
+PRD-0293,SKU-RAW-085,Composites Model-085 Raw,CAT-003,Raw Materials,Composites,Each,136.94,177.02,Active
+PRD-0294,SKU-RAW-086,Chemicals & Polymers Model-086 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,218.92,334.48,Active
+PRD-0295,SKU-RAW-087,Paper & Pulp Model-087 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,58.26,89.89,Active
+PRD-0296,SKU-RAW-088,Paper & Pulp Model-088 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,298.53,374.88,Active
+PRD-0297,SKU-RAW-089,Minerals Model-089 Raw,CAT-003,Raw Materials,Minerals,Each,288.77,433.59,Active
+PRD-0298,SKU-RAW-090,Composites Model-090 Raw,CAT-003,Raw Materials,Composites,Each,223.16,326.97,Active
+PRD-0299,SKU-RAW-091,Chemicals & Polymers Model-091 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,286.8,377.3,Active
+PRD-0300,SKU-RAW-092,Metals Model-092 Raw,CAT-003,Raw Materials,Metals,Each,265.57,365.48,Active
+PRD-0301,SKU-RAW-093,Minerals Model-093 Raw,CAT-003,Raw Materials,Minerals,Each,274.84,419.2,Active
+PRD-0302,SKU-RAW-094,Minerals Model-094 Raw,CAT-003,Raw Materials,Minerals,Each,279.37,387.39,Active
+PRD-0303,SKU-RAW-095,Paper & Pulp Model-095 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,49.59,68.7,Active
+PRD-0304,SKU-RAW-096,Composites Model-096 Raw,CAT-003,Raw Materials,Composites,Each,144.14,180.99,Active
+PRD-0305,SKU-RAW-097,Metals Model-097 Raw,CAT-003,Raw Materials,Metals,Each,185.16,278.95,Active
+PRD-0306,SKU-RAW-098,Metals Model-098 Raw,CAT-003,Raw Materials,Metals,Each,377.18,568.53,Active
+PRD-0307,SKU-RAW-099,Composites Model-099 Raw,CAT-003,Raw Materials,Composites,Each,90.03,123.64,Active
+PRD-0308,SKU-RAW-100,Composites Model-100 Raw,CAT-003,Raw Materials,Composites,Each,396.08,519.37,Active
+PRD-0309,SKU-RAW-101,Paper & Pulp Model-101 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,471.37,668.16,Active
+PRD-0310,SKU-RAW-102,Chemicals & Polymers Model-102 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,395.17,502.69,Active
+PRD-0311,SKU-RAW-103,Paper & Pulp Model-103 Raw,CAT-003,Raw Materials,Paper & Pulp,Each,46.64,61.59,Active
+PRD-0312,SKU-RAW-104,Chemicals & Polymers Model-104 Raw,CAT-003,Raw Materials,Chemicals & Polymers,Each,428.61,583.11,Active
+PRD-0313,SKU-OFF-001,Accessories Model-001 Off,CAT-004,Office Supplies,Accessories,Each,119.2,213.98,Active
+PRD-0314,SKU-OFF-002,Consumables Model-002 Off,CAT-004,Office Supplies,Consumables,Each,110.47,150.95,Active
+PRD-0315,SKU-OFF-003,Equipment Model-003 Off,CAT-004,Office Supplies,Equipment,Each,71.51,124.28,Active
+PRD-0316,SKU-OFF-004,Furniture Model-004 Off,CAT-004,Office Supplies,Furniture,Each,192.09,288.01,Active
+PRD-0317,SKU-OFF-005,Furniture Model-005 Off,CAT-004,Office Supplies,Furniture,Each,178.26,275.7,Active
+PRD-0318,SKU-OFF-006,Paper Products Model-006 Off,CAT-004,Office Supplies,Paper Products,Each,166.61,292.0,Active
+PRD-0319,SKU-OFF-007,Paper Products Model-007 Off,CAT-004,Office Supplies,Paper Products,Each,82.52,118.34,Active
+PRD-0320,SKU-OFF-008,Paper Products Model-008 Off,CAT-004,Office Supplies,Paper Products,Each,88.41,151.07,Active
+PRD-0321,SKU-OFF-009,Accessories Model-009 Off,CAT-004,Office Supplies,Accessories,Each,178.64,299.61,Active
+PRD-0322,SKU-OFF-010,Furniture Model-010 Off,CAT-004,Office Supplies,Furniture,Each,101.57,182.6,Active
+PRD-0323,SKU-OFF-011,Equipment Model-011 Off,CAT-004,Office Supplies,Equipment,Each,125.46,187.51,Active
+PRD-0324,SKU-OFF-012,Furniture Model-012 Off,CAT-004,Office Supplies,Furniture,Each,80.21,118.95,Active
+PRD-0325,SKU-OFF-013,Paper Products Model-013 Off,CAT-004,Office Supplies,Paper Products,Each,137.35,211.76,Active
+PRD-0326,SKU-OFF-014,Paper Products Model-014 Off,CAT-004,Office Supplies,Paper Products,Each,85.12,116.53,Active
+PRD-0327,SKU-OFF-015,Accessories Model-015 Off,CAT-004,Office Supplies,Accessories,Each,139.89,216.23,Active
+PRD-0328,SKU-OFF-016,Furniture Model-016 Off,CAT-004,Office Supplies,Furniture,Each,27.61,45.19,Active
+PRD-0329,SKU-OFF-017,Accessories Model-017 Off,CAT-004,Office Supplies,Accessories,Each,118.72,200.33,Active
+PRD-0330,SKU-OFF-018,Equipment Model-018 Off,CAT-004,Office Supplies,Equipment,Each,210.18,297.25,Active
+PRD-0331,SKU-OFF-019,Consumables Model-019 Off,CAT-004,Office Supplies,Consumables,Each,153.04,236.78,Active
+PRD-0332,SKU-OFF-020,Equipment Model-020 Off,CAT-004,Office Supplies,Equipment,Each,25.98,44.17,Active
+PRD-0333,SKU-OFF-021,Accessories Model-021 Off,CAT-004,Office Supplies,Accessories,Each,87.33,155.21,Active
+PRD-0334,SKU-OFF-022,Furniture Model-022 Off,CAT-004,Office Supplies,Furniture,Each,137.86,228.24,Active
+PRD-0335,SKU-OFF-023,Accessories Model-023 Off,CAT-004,Office Supplies,Accessories,Each,89.38,151.36,Active
+PRD-0336,SKU-OFF-024,Consumables Model-024 Off,CAT-004,Office Supplies,Consumables,Each,40.64,61.57,Active
+PRD-0337,SKU-OFF-025,Accessories Model-025 Off,CAT-004,Office Supplies,Accessories,Each,147.11,215.12,Active
+PRD-0338,SKU-OFF-026,Furniture Model-026 Off,CAT-004,Office Supplies,Furniture,Each,17.39,24.93,Active
+PRD-0339,SKU-OFF-027,Consumables Model-027 Off,CAT-004,Office Supplies,Consumables,Each,92.49,148.24,Active
+PRD-0340,SKU-OFF-028,Accessories Model-028 Off,CAT-004,Office Supplies,Accessories,Each,173.19,288.68,Active
+PRD-0341,SKU-OFF-029,Equipment Model-029 Off,CAT-004,Office Supplies,Equipment,Each,219.24,324.15,Active
+PRD-0342,SKU-OFF-030,Paper Products Model-030 Off,CAT-004,Office Supplies,Paper Products,Each,53.64,75.69,Active
+PRD-0343,SKU-OFF-031,Furniture Model-031 Off,CAT-004,Office Supplies,Furniture,Each,106.02,186.0,Active
+PRD-0344,SKU-OFF-032,Paper Products Model-032 Off,CAT-004,Office Supplies,Paper Products,Each,219.43,376.26,Active
+PRD-0345,SKU-OFF-033,Accessories Model-033 Off,CAT-004,Office Supplies,Accessories,Each,150.91,251.91,Active
+PRD-0346,SKU-OFF-034,Consumables Model-034 Off,CAT-004,Office Supplies,Consumables,Each,124.77,218.48,Active
+PRD-0347,SKU-OFF-035,Equipment Model-035 Off,CAT-004,Office Supplies,Equipment,Each,160.06,282.87,Active
+PRD-0348,SKU-OFF-036,Equipment Model-036 Off,CAT-004,Office Supplies,Equipment,Each,177.09,279.61,Active
+PRD-0349,SKU-OFF-037,Furniture Model-037 Off,CAT-004,Office Supplies,Furniture,Each,216.91,370.14,Active
+PRD-0350,SKU-OFF-038,Equipment Model-038 Off,CAT-004,Office Supplies,Equipment,Each,176.4,240.23,Active
+PRD-0351,SKU-OFF-039,Consumables Model-039 Off,CAT-004,Office Supplies,Consumables,Each,131.03,204.45,Active
+PRD-0352,SKU-OFF-040,Consumables Model-040 Off,CAT-004,Office Supplies,Consumables,Each,38.99,68.15,Active
+PRD-0353,SKU-OFF-041,Furniture Model-041 Off,CAT-004,Office Supplies,Furniture,Each,76.33,137.38,Active
+PRD-0354,SKU-OFF-042,Paper Products Model-042 Off,CAT-004,Office Supplies,Paper Products,Each,121.34,205.81,Active
+PRD-0355,SKU-OFF-043,Consumables Model-043 Off,CAT-004,Office Supplies,Consumables,Each,27.34,48.87,Active
+PRD-0356,SKU-OFF-044,Furniture Model-044 Off,CAT-004,Office Supplies,Furniture,Each,105.59,174.86,Active
+PRD-0357,SKU-OFF-045,Accessories Model-045 Off,CAT-004,Office Supplies,Accessories,Each,38.69,66.67,Active
+PRD-0358,SKU-OFF-046,Consumables Model-046 Off,CAT-004,Office Supplies,Consumables,Each,145.08,207.74,Active
+PRD-0359,SKU-OFF-047,Equipment Model-047 Off,CAT-004,Office Supplies,Equipment,Each,101.98,179.47,Active
+PRD-0360,SKU-OFF-048,Furniture Model-048 Off,CAT-004,Office Supplies,Furniture,Each,184.93,292.77,Active
+PRD-0361,SKU-OFF-049,Accessories Model-049 Off,CAT-004,Office Supplies,Accessories,Each,46.25,69.15,Active
+PRD-0362,SKU-OFF-050,Equipment Model-050 Off,CAT-004,Office Supplies,Equipment,Each,83.97,148.91,Active
+PRD-0363,SKU-OFF-051,Accessories Model-051 Off,CAT-004,Office Supplies,Accessories,Each,187.95,274.93,Active
+PRD-0364,SKU-OFF-052,Consumables Model-052 Off,CAT-004,Office Supplies,Consumables,Each,69.09,112.7,Active
+PRD-0365,SKU-OFF-053,Consumables Model-053 Off,CAT-004,Office Supplies,Consumables,Each,122.96,193.8,Active
+PRD-0366,SKU-OFF-054,Equipment Model-054 Off,CAT-004,Office Supplies,Equipment,Each,135.1,217.69,Active
+PRD-0367,SKU-OFF-055,Equipment Model-055 Off,CAT-004,Office Supplies,Equipment,Each,149.02,249.5,Active
+PRD-0368,SKU-OFF-056,Consumables Model-056 Off,CAT-004,Office Supplies,Consumables,Each,82.22,145.18,Active
+PRD-0369,SKU-OFF-057,Furniture Model-057 Off,CAT-004,Office Supplies,Furniture,Each,183.65,250.27,Active
+PRD-0370,SKU-OFF-058,Furniture Model-058 Off,CAT-004,Office Supplies,Furniture,Each,209.3,355.17,Active
+PRD-0371,SKU-OFF-059,Accessories Model-059 Off,CAT-004,Office Supplies,Accessories,Each,147.44,249.93,Active
+PRD-0372,SKU-OFF-060,Paper Products Model-060 Off,CAT-004,Office Supplies,Paper Products,Each,140.57,191.69,Active
+PRD-0373,SKU-OFF-061,Consumables Model-061 Off,CAT-004,Office Supplies,Consumables,Each,72.25,128.64,Active
+PRD-0374,SKU-OFF-062,Paper Products Model-062 Off,CAT-004,Office Supplies,Paper Products,Each,62.93,107.82,Active
+PRD-0375,SKU-OFF-063,Paper Products Model-063 Off,CAT-004,Office Supplies,Paper Products,Each,73.87,102.15,Active
+PRD-0376,SKU-OFF-064,Furniture Model-064 Off,CAT-004,Office Supplies,Furniture,Each,44.88,68.98,Active
+PRD-0377,SKU-OFF-065,Paper Products Model-065 Off,CAT-004,Office Supplies,Paper Products,Each,54.44,88.36,Active
+PRD-0378,SKU-OFF-066,Accessories Model-066 Off,CAT-004,Office Supplies,Accessories,Each,191.19,285.58,Active
+PRD-0379,SKU-OFF-067,Accessories Model-067 Off,CAT-004,Office Supplies,Accessories,Each,214.88,302.73,Active
+PRD-0380,SKU-OFF-068,Accessories Model-068 Off,CAT-004,Office Supplies,Accessories,Each,119.12,166.5,Active
+PRD-0381,SKU-OFF-069,Equipment Model-069 Off,CAT-004,Office Supplies,Equipment,Each,109.03,160.31,Active
+PRD-0382,SKU-OFF-070,Equipment Model-070 Off,CAT-004,Office Supplies,Equipment,Each,41.3,56.7,Active
+PRD-0383,SKU-OFF-071,Paper Products Model-071 Off,CAT-004,Office Supplies,Paper Products,Each,191.75,294.94,Active
+PRD-0384,SKU-OFF-072,Equipment Model-072 Off,CAT-004,Office Supplies,Equipment,Each,181.2,320.76,Active
+PRD-0385,SKU-OFF-073,Accessories Model-073 Off,CAT-004,Office Supplies,Accessories,Each,51.49,73.2,Active
+PRD-0386,SKU-OFF-074,Consumables Model-074 Off,CAT-004,Office Supplies,Consumables,Each,109.1,190.44,Active
+PRD-0387,SKU-OFF-075,Paper Products Model-075 Off,CAT-004,Office Supplies,Paper Products,Each,16.82,29.86,Active
+PRD-0388,SKU-OFF-076,Consumables Model-076 Off,CAT-004,Office Supplies,Consumables,Each,107.1,156.19,Active
+PRD-0389,SKU-OFF-077,Consumables Model-077 Off,CAT-004,Office Supplies,Consumables,Each,85.4,117.23,Active
+PRD-0390,SKU-OFF-078,Paper Products Model-078 Off,CAT-004,Office Supplies,Paper Products,Each,136.28,235.67,Active
+PRD-0391,SKU-OFF-079,Paper Products Model-079 Off,CAT-004,Office Supplies,Paper Products,Each,71.44,96.71,Active
+PRD-0392,SKU-OFF-080,Furniture Model-080 Off,CAT-004,Office Supplies,Furniture,Each,101.63,177.56,Active
+PRD-0393,SKU-OFF-081,Accessories Model-081 Off,CAT-004,Office Supplies,Accessories,Each,170.88,258.83,Active
+PRD-0394,SKU-OFF-082,Paper Products Model-082 Off,CAT-004,Office Supplies,Paper Products,Each,22.64,36.29,Active
+PRD-0395,SKU-OFF-083,Accessories Model-083 Off,CAT-004,Office Supplies,Accessories,Each,127.07,175.75,Active
+PRD-0396,SKU-OFF-084,Consumables Model-084 Off,CAT-004,Office Supplies,Consumables,Each,105.67,168.8,Active
+PRD-0397,SKU-OFF-085,Consumables Model-085 Off,CAT-004,Office Supplies,Consumables,Each,153.52,215.46,Active
+PRD-0398,SKU-OFF-086,Furniture Model-086 Off,CAT-004,Office Supplies,Furniture,Each,93.93,160.4,Active
+PRD-0399,SKU-OFF-087,Accessories Model-087 Off,CAT-004,Office Supplies,Accessories,Each,128.03,193.9,Active
+PRD-0400,SKU-OFF-088,Equipment Model-088 Off,CAT-004,Office Supplies,Equipment,Each,53.4,84.32,Active
+PRD-0401,SKU-OFF-089,Consumables Model-089 Off,CAT-004,Office Supplies,Consumables,Each,20.37,27.86,Active
+PRD-0402,SKU-OFF-090,Accessories Model-090 Off,CAT-004,Office Supplies,Accessories,Each,179.22,283.83,Active
+PRD-0403,SKU-OFF-091,Equipment Model-091 Off,CAT-004,Office Supplies,Equipment,Each,138.1,218.47,Active
+PRD-0404,SKU-OFF-092,Accessories Model-092 Off,CAT-004,Office Supplies,Accessories,Each,205.72,307.21,Active
+PRD-0405,SKU-OFF-093,Paper Products Model-093 Off,CAT-004,Office Supplies,Paper Products,Each,218.05,366.91,Active
+PRD-0406,SKU-OFF-094,Accessories Model-094 Off,CAT-004,Office Supplies,Accessories,Each,135.49,213.84,Active
+PRD-0407,SKU-OFF-095,Consumables Model-095 Off,CAT-004,Office Supplies,Consumables,Each,122.73,204.83,Active
+PRD-0408,SKU-OFF-096,Accessories Model-096 Off,CAT-004,Office Supplies,Accessories,Each,110.78,150.38,Active
+PRD-0409,SKU-OFF-097,Accessories Model-097 Off,CAT-004,Office Supplies,Accessories,Each,152.15,272.49,Active
+PRD-0410,SKU-OFF-098,Consumables Model-098 Off,CAT-004,Office Supplies,Consumables,Each,76.0,133.34,Active
+PRD-0411,SKU-OFF-099,Furniture Model-099 Off,CAT-004,Office Supplies,Furniture,Each,136.16,200.09,Active
+PRD-0412,SKU-OFF-100,Consumables Model-100 Off,CAT-004,Office Supplies,Consumables,Each,132.15,221.3,Active
+PRD-0413,SKU-OFF-101,Consumables Model-101 Off,CAT-004,Office Supplies,Consumables,Each,111.93,177.51,Active
+PRD-0414,SKU-OFF-102,Consumables Model-102 Off,CAT-004,Office Supplies,Consumables,Each,173.12,263.33,Active
+PRD-0415,SKU-OFF-103,Equipment Model-103 Off,CAT-004,Office Supplies,Equipment,Each,18.57,32.99,Active
+PRD-0416,SKU-OFF-104,Furniture Model-104 Off,CAT-004,Office Supplies,Furniture,Each,51.68,80.02,Active
+PRD-0417,SKU-PAC-001,Adhesives Model-001 Pac,CAT-005,Packaging,Adhesives,Bundle,12.63,19.91,Active
+PRD-0418,SKU-PAC-002,Adhesives Model-002 Pac,CAT-005,Packaging,Adhesives,Bundle,38.38,59.28,Active
+PRD-0419,SKU-PAC-003,Adhesives Model-003 Pac,CAT-005,Packaging,Adhesives,Bundle,65.65,104.67,Active
+PRD-0420,SKU-PAC-004,Boxes Model-004 Pac,CAT-005,Packaging,Boxes,Bundle,53.37,80.45,Active
+PRD-0421,SKU-PAC-005,Protective Model-005 Pac,CAT-005,Packaging,Protective,Bundle,25.39,39.73,Active
+PRD-0422,SKU-PAC-006,Protective Model-006 Pac,CAT-005,Packaging,Protective,Bundle,29.2,49.13,Active
+PRD-0423,SKU-PAC-007,Adhesives Model-007 Pac,CAT-005,Packaging,Adhesives,Bundle,68.54,98.49,Active
+PRD-0424,SKU-PAC-008,Films Model-008 Pac,CAT-005,Packaging,Films,Bundle,51.18,84.3,Active
+PRD-0425,SKU-PAC-009,Cold Chain Model-009 Pac,CAT-005,Packaging,Cold Chain,Bundle,48.78,76.94,Active
+PRD-0426,SKU-PAC-010,Protective Model-010 Pac,CAT-005,Packaging,Protective,Bundle,37.09,62.42,Active
+PRD-0427,SKU-PAC-011,Films Model-011 Pac,CAT-005,Packaging,Films,Bundle,42.52,59.1,Active
+PRD-0428,SKU-PAC-012,Films Model-012 Pac,CAT-005,Packaging,Films,Bundle,58.18,92.04,Active
+PRD-0429,SKU-PAC-013,Cold Chain Model-013 Pac,CAT-005,Packaging,Cold Chain,Bundle,53.32,76.08,Active
+PRD-0430,SKU-PAC-014,Films Model-014 Pac,CAT-005,Packaging,Films,Bundle,42.7,71.47,Active
+PRD-0431,SKU-PAC-015,Cold Chain Model-015 Pac,CAT-005,Packaging,Cold Chain,Bundle,21.6,29.13,Active
+PRD-0432,SKU-PAC-016,Cold Chain Model-016 Pac,CAT-005,Packaging,Cold Chain,Bundle,41.42,68.69,Active
+PRD-0433,SKU-PAC-017,Adhesives Model-017 Pac,CAT-005,Packaging,Adhesives,Bundle,61.65,103.69,Active
+PRD-0434,SKU-PAC-018,Void Fill Model-018 Pac,CAT-005,Packaging,Void Fill,Bundle,22.85,32.33,Active
+PRD-0435,SKU-PAC-019,Cold Chain Model-019 Pac,CAT-005,Packaging,Cold Chain,Bundle,7.31,12.2,Active
+PRD-0436,SKU-PAC-020,Cold Chain Model-020 Pac,CAT-005,Packaging,Cold Chain,Bundle,20.35,30.35,Active
+PRD-0437,SKU-PAC-021,Void Fill Model-021 Pac,CAT-005,Packaging,Void Fill,Bundle,62.35,87.82,Active
+PRD-0438,SKU-PAC-022,Protective Model-022 Pac,CAT-005,Packaging,Protective,Bundle,52.67,71.36,Active
+PRD-0439,SKU-PAC-023,Protective Model-023 Pac,CAT-005,Packaging,Protective,Bundle,55.96,78.1,Active
+PRD-0440,SKU-PAC-024,Boxes Model-024 Pac,CAT-005,Packaging,Boxes,Bundle,50.73,76.72,Active
+PRD-0441,SKU-PAC-025,Cold Chain Model-025 Pac,CAT-005,Packaging,Cold Chain,Bundle,18.61,24.94,Active
+PRD-0442,SKU-PAC-026,Films Model-026 Pac,CAT-005,Packaging,Films,Bundle,54.23,72.68,Active
+PRD-0443,SKU-PAC-027,Void Fill Model-027 Pac,CAT-005,Packaging,Void Fill,Bundle,1.88,2.86,Active
+PRD-0444,SKU-PAC-028,Void Fill Model-028 Pac,CAT-005,Packaging,Void Fill,Bundle,31.41,52.58,Active
+PRD-0445,SKU-PAC-029,Adhesives Model-029 Pac,CAT-005,Packaging,Adhesives,Bundle,36.59,50.49,Active
+PRD-0446,SKU-PAC-030,Films Model-030 Pac,CAT-005,Packaging,Films,Bundle,25.11,39.13,Active
+PRD-0447,SKU-PAC-031,Boxes Model-031 Pac,CAT-005,Packaging,Boxes,Bundle,49.44,68.86,Active
+PRD-0448,SKU-PAC-032,Cold Chain Model-032 Pac,CAT-005,Packaging,Cold Chain,Bundle,54.65,91.52,Active
+PRD-0449,SKU-PAC-033,Void Fill Model-033 Pac,CAT-005,Packaging,Void Fill,Bundle,32.21,52.66,Active
+PRD-0450,SKU-PAC-034,Boxes Model-034 Pac,CAT-005,Packaging,Boxes,Bundle,74.79,109.1,Active
+PRD-0451,SKU-PAC-035,Adhesives Model-035 Pac,CAT-005,Packaging,Adhesives,Bundle,15.19,24.3,Active
+PRD-0452,SKU-PAC-036,Films Model-036 Pac,CAT-005,Packaging,Films,Bundle,65.94,85.97,Active
+PRD-0453,SKU-PAC-037,Protective Model-037 Pac,CAT-005,Packaging,Protective,Bundle,45.8,76.55,Active
+PRD-0454,SKU-PAC-038,Films Model-038 Pac,CAT-005,Packaging,Films,Bundle,22.42,38.02,Active
+PRD-0455,SKU-PAC-039,Protective Model-039 Pac,CAT-005,Packaging,Protective,Bundle,40.04,66.29,Active
+PRD-0456,SKU-PAC-040,Void Fill Model-040 Pac,CAT-005,Packaging,Void Fill,Bundle,64.05,95.26,Active
+PRD-0457,SKU-PAC-041,Void Fill Model-041 Pac,CAT-005,Packaging,Void Fill,Bundle,60.95,87.3,Active
+PRD-0458,SKU-PAC-042,Cold Chain Model-042 Pac,CAT-005,Packaging,Cold Chain,Bundle,35.23,49.42,Active
+PRD-0459,SKU-PAC-043,Void Fill Model-043 Pac,CAT-005,Packaging,Void Fill,Bundle,2.54,3.64,Active
+PRD-0460,SKU-PAC-044,Films Model-044 Pac,CAT-005,Packaging,Films,Bundle,43.23,69.29,Active
+PRD-0461,SKU-PAC-045,Void Fill Model-045 Pac,CAT-005,Packaging,Void Fill,Bundle,46.41,72.19,Active
+PRD-0462,SKU-PAC-046,Adhesives Model-046 Pac,CAT-005,Packaging,Adhesives,Bundle,62.28,93.8,Active
+PRD-0463,SKU-PAC-047,Boxes Model-047 Pac,CAT-005,Packaging,Boxes,Bundle,30.96,41.43,Active
+PRD-0464,SKU-PAC-048,Void Fill Model-048 Pac,CAT-005,Packaging,Void Fill,Bundle,36.59,61.26,Active
+PRD-0465,SKU-PAC-049,Boxes Model-049 Pac,CAT-005,Packaging,Boxes,Bundle,20.67,28.82,Active
+PRD-0466,SKU-PAC-050,Films Model-050 Pac,CAT-005,Packaging,Films,Bundle,71.62,101.76,Active
+PRD-0467,SKU-PAC-051,Cold Chain Model-051 Pac,CAT-005,Packaging,Cold Chain,Bundle,43.61,61.26,Active
+PRD-0468,SKU-PAC-052,Films Model-052 Pac,CAT-005,Packaging,Films,Bundle,52.42,69.45,Active
+PRD-0469,SKU-PAC-053,Boxes Model-053 Pac,CAT-005,Packaging,Boxes,Bundle,35.71,48.7,Active
+PRD-0470,SKU-PAC-054,Cold Chain Model-054 Pac,CAT-005,Packaging,Cold Chain,Bundle,38.44,63.74,Active
+PRD-0471,SKU-PAC-055,Cold Chain Model-055 Pac,CAT-005,Packaging,Cold Chain,Bundle,58.08,91.54,Active
+PRD-0472,SKU-PAC-056,Cold Chain Model-056 Pac,CAT-005,Packaging,Cold Chain,Bundle,68.84,97.62,Active
+PRD-0473,SKU-PAC-057,Protective Model-057 Pac,CAT-005,Packaging,Protective,Bundle,17.73,29.84,Active
+PRD-0474,SKU-PAC-058,Adhesives Model-058 Pac,CAT-005,Packaging,Adhesives,Bundle,12.76,20.4,Active
+PRD-0475,SKU-PAC-059,Protective Model-059 Pac,CAT-005,Packaging,Protective,Bundle,28.96,45.78,Active
+PRD-0476,SKU-PAC-060,Adhesives Model-060 Pac,CAT-005,Packaging,Adhesives,Bundle,57.17,92.66,Active
+PRD-0477,SKU-PAC-061,Void Fill Model-061 Pac,CAT-005,Packaging,Void Fill,Bundle,57.5,90.4,Active
+PRD-0478,SKU-PAC-062,Protective Model-062 Pac,CAT-005,Packaging,Protective,Bundle,65.68,87.53,Active
+PRD-0479,SKU-PAC-063,Adhesives Model-063 Pac,CAT-005,Packaging,Adhesives,Bundle,40.32,58.25,Active
+PRD-0480,SKU-PAC-064,Protective Model-064 Pac,CAT-005,Packaging,Protective,Bundle,9.75,15.91,Active
+PRD-0481,SKU-PAC-065,Protective Model-065 Pac,CAT-005,Packaging,Protective,Bundle,16.36,24.78,Active
+PRD-0482,SKU-PAC-066,Void Fill Model-066 Pac,CAT-005,Packaging,Void Fill,Bundle,25.62,38.64,Active
+PRD-0483,SKU-PAC-067,Boxes Model-067 Pac,CAT-005,Packaging,Boxes,Bundle,51.5,81.72,Active
+PRD-0484,SKU-PAC-068,Adhesives Model-068 Pac,CAT-005,Packaging,Adhesives,Bundle,8.18,12.3,Active
+PRD-0485,SKU-PAC-069,Boxes Model-069 Pac,CAT-005,Packaging,Boxes,Bundle,34.83,52.43,Active
+PRD-0486,SKU-PAC-070,Adhesives Model-070 Pac,CAT-005,Packaging,Adhesives,Bundle,42.95,65.44,Active
+PRD-0487,SKU-PAC-071,Cold Chain Model-071 Pac,CAT-005,Packaging,Cold Chain,Bundle,60.81,96.65,Active
+PRD-0488,SKU-PAC-072,Adhesives Model-072 Pac,CAT-005,Packaging,Adhesives,Bundle,20.2,26.28,Active
+PRD-0489,SKU-PAC-073,Void Fill Model-073 Pac,CAT-005,Packaging,Void Fill,Bundle,44.01,58.01,Active
+PRD-0490,SKU-PAC-074,Films Model-074 Pac,CAT-005,Packaging,Films,Bundle,52.98,80.34,Active
+PRD-0491,SKU-PAC-075,Boxes Model-075 Pac,CAT-005,Packaging,Boxes,Bundle,70.19,93.18,Active
+PRD-0492,SKU-PAC-076,Adhesives Model-076 Pac,CAT-005,Packaging,Adhesives,Bundle,3.83,5.61,Active
+PRD-0493,SKU-PAC-077,Void Fill Model-077 Pac,CAT-005,Packaging,Void Fill,Bundle,57.79,97.74,Active
+PRD-0494,SKU-PAC-078,Cold Chain Model-078 Pac,CAT-005,Packaging,Cold Chain,Bundle,72.34,104.88,Active
+PRD-0495,SKU-PAC-079,Adhesives Model-079 Pac,CAT-005,Packaging,Adhesives,Bundle,34.47,57.46,Active
+PRD-0496,SKU-PAC-080,Adhesives Model-080 Pac,CAT-005,Packaging,Adhesives,Bundle,29.11,45.79,Active
+PRD-0497,SKU-PAC-081,Cold Chain Model-081 Pac,CAT-005,Packaging,Cold Chain,Bundle,65.78,89.01,Active
+PRD-0498,SKU-PAC-082,Films Model-082 Pac,CAT-005,Packaging,Films,Bundle,10.22,17.34,Active
+PRD-0499,SKU-PAC-083,Adhesives Model-083 Pac,CAT-005,Packaging,Adhesives,Bundle,40.37,64.23,Active
+PRD-0500,SKU-PAC-084,Void Fill Model-084 Pac,CAT-005,Packaging,Void Fill,Bundle,62.86,100.73,Active
+PRD-0501,SKU-PAC-085,Films Model-085 Pac,CAT-005,Packaging,Films,Bundle,35.53,56.41,Active
+PRD-0502,SKU-PAC-086,Adhesives Model-086 Pac,CAT-005,Packaging,Adhesives,Bundle,40.6,66.15,Active
+PRD-0503,SKU-PAC-087,Void Fill Model-087 Pac,CAT-005,Packaging,Void Fill,Bundle,35.36,48.16,Active
+PRD-0504,SKU-PAC-088,Void Fill Model-088 Pac,CAT-005,Packaging,Void Fill,Bundle,70.4,111.94,Active
+PRD-0505,SKU-PAC-089,Boxes Model-089 Pac,CAT-005,Packaging,Boxes,Bundle,3.87,6.05,Active
+PRD-0506,SKU-PAC-090,Protective Model-090 Pac,CAT-005,Packaging,Protective,Bundle,57.8,95.57,Active
+PRD-0507,SKU-PAC-091,Boxes Model-091 Pac,CAT-005,Packaging,Boxes,Bundle,19.19,25.46,Active
+PRD-0508,SKU-PAC-092,Protective Model-092 Pac,CAT-005,Packaging,Protective,Bundle,3.97,6.11,Active
+PRD-0509,SKU-PAC-093,Cold Chain Model-093 Pac,CAT-005,Packaging,Cold Chain,Bundle,65.61,91.72,Active
+PRD-0510,SKU-PAC-094,Boxes Model-094 Pac,CAT-005,Packaging,Boxes,Bundle,31.07,43.3,Active
+PRD-0511,SKU-PAC-095,Void Fill Model-095 Pac,CAT-005,Packaging,Void Fill,Bundle,56.95,91.71,Active
+PRD-0512,SKU-PAC-096,Void Fill Model-096 Pac,CAT-005,Packaging,Void Fill,Bundle,38.54,54.56,Active
+PRD-0513,SKU-PAC-097,Cold Chain Model-097 Pac,CAT-005,Packaging,Cold Chain,Bundle,43.84,67.12,Active
+PRD-0514,SKU-PAC-098,Cold Chain Model-098 Pac,CAT-005,Packaging,Cold Chain,Bundle,61.65,85.99,Active
+PRD-0515,SKU-PAC-099,Void Fill Model-099 Pac,CAT-005,Packaging,Void Fill,Bundle,73.95,111.55,Active
+PRD-0516,SKU-PAC-100,Adhesives Model-100 Pac,CAT-005,Packaging,Adhesives,Bundle,23.59,31.24,Active
+PRD-0517,SKU-PAC-101,Protective Model-101 Pac,CAT-005,Packaging,Protective,Bundle,66.16,110.13,Active
+PRD-0518,SKU-PAC-102,Cold Chain Model-102 Pac,CAT-005,Packaging,Cold Chain,Bundle,51.39,78.23,Active
+PRD-0519,SKU-PAC-103,Boxes Model-103 Pac,CAT-005,Packaging,Boxes,Bundle,72.96,122.33,Active
+PRD-0520,SKU-PAC-104,Cold Chain Model-104 Pac,CAT-005,Packaging,Cold Chain,Bundle,29.51,44.55,Active

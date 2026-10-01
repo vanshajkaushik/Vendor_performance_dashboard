@@ -1,0 +1,16 @@
+vendor_code,vendor_name,vendor_category,contact_person,email,phone,country,rating,contract_start_date,payment_terms
+VND-IMP01,Zenith MicroTech,Electronics,Laura Chen,laura.chen@zenithmicro.com,+1-415-555-0991,United States,4.6,2025-01-10,Net 30
+VND-IMP02,Bavaria Servo Dynamics,Industrial Machinery,Klaus Richter,k.richter@bavariaservo.de,+49-89-555-0992,Germany,4.8,2025-02-01,Net 60
+VND-IMP03,Nordic Pulp & Carton,Raw Materials,Astrid Lind,astrid@nordicpulp.se,+46-8-555-0993,Sweden,4.2,2025-01-15,Net 30
+VND-IMP04,Tokyo High Conductive,Electronics,Takashi Sato,sato@tokyoconductive.jp,+81-3-555-0994,Japan,4.9,2025-03-01,Net 30
+VND-IMP05,Apex EcoPack International,Packaging,Mark Evans,mevans@apexecopack.com,+1-206-555-0995,United States,4.4,2025-02-15,Net 30
+VND-IMP06,Cascade Ergonomic Desks,Office Supplies,Rachel Green,rgreen@cascadedesks.com,+1-503-555-0996,United States,4.1,2025-01-20,Net 30
+VND-IMP07,Solvent Chemical Works,Raw Materials,Dmitri Volkov,dvolkov@solventworks.com,+1-713-555-0997,United States,3.9,2025-02-28,Net 60
+VND-IMP08,Pinnacle Actuators,Industrial Machinery,Oliver Brown,obrown@pinnacleactuators.com,+44-20-555-0998,United Kingdom,4.7,2025-03-10,Net 30
+VND-IMP09,FlexiSeal Industrial Tape,Packaging,Hannah Scott,hscott@flexisealtape.com,+1-312-555-0999,United States,4.3,2025-01-05,Net 30
+VND-IMP10,Summit Laser Optics,Electronics,Victor Vance,vvance@summitlaser.com,+1-408-555-0910,United States,4.5,2025-02-12,Net 30
+VND-IMP01,Duplicate Zenith,Electronics,Duplicate Person,dup@zenith.com,+1-415-555-0991,United States,4.0,2025-01-10,Net 30
+VND-IMP02,Duplicate Bavaria,Industrial Machinery,Duplicate Person 2,dup2@bavaria.de,+49-89-555-0992,Germany,4.0,2025-02-01,Net 60
+VND-001,Apex Global Tech Duplicate,Electronics,James Smith,jsmith@apexglobaltech.com,+1-415-555-0101,United States,4.5,2025-01-01,Net 30
+VND-INV01,Bad Email Corp,Electronics,Bob Jones,invalid-email-address-format,+1-212-555-0199,United States,4.0,2025-01-01,Net 30
+VND-INV02,Out of Range Rating Corp,Packaging,Alice Moore,amoore@ratingcorp.com,+1-212-555-0299,United States,7.5,2025-01-01,Net 30

@@ -1,0 +1,113 @@
+{
+  "status": "PASSED",
+  "total_checks": 21,
+  "passed_checks": 21,
+  "failed_checks": 0,
+  "checks": [
+    {
+      "check_name": "PK Uniqueness - DimVendor.vendor_id",
+      "passed": true,
+      "details": "Dups: 0"
+    },
+    {
+      "check_name": "Unique Constraint - DimVendor.vendor_code",
+      "passed": true,
+      "details": "Dups: 0"
+    },
+    {
+      "check_name": "PK Uniqueness - DimProduct.product_id",
+      "passed": true,
+      "details": "Dups: 0"
+    },
+    {
+      "check_name": "PK Uniqueness - FactPurchases.purchase_id",
+      "passed": true,
+      "details": "Dups: 0"
+    },
+    {
+      "check_name": "PK Uniqueness - FactSales.sale_id",
+      "passed": true,
+      "details": "Dups: 0"
+    },
+    {
+      "check_name": "FK Integrity - FactPurchases.vendor_id in DimVendor",
+      "passed": true,
+      "details": "0 orphan vendor keys"
+    },
+    {
+      "check_name": "FK Integrity - FactPurchases.product_id in DimProduct",
+      "passed": true,
+      "details": "0 orphan product keys"
+    },
+    {
+      "check_name": "FK Integrity - FactSales.product_id in DimProduct",
+      "passed": true,
+      "details": "0 orphan sales product keys"
+    },
+    {
+      "check_name": "FK Integrity - DimProduct.category_id in DimCategory",
+      "passed": true,
+      "details": "0 orphan category keys"
+    },
+    {
+      "check_name": "FK Integrity - FactInventory.vendor_id in DimVendor",
+      "passed": true,
+      "details": "0 orphan inv vendor keys"
+    },
+    {
+      "check_name": "FK Integrity - FactInventory.product_id in DimProduct",
+      "passed": true,
+      "details": "0 orphan inv product keys"
+    },
+    {
+      "check_name": "Numeric Constraint - FactPurchases quantity > 0",
+      "passed": true,
+      "details": "No negative/zero purchase quantities"
+    },
+    {
+      "check_name": "Numeric Constraint - FactPurchases unit price > 0",
+      "passed": true,
+      "details": "No negative purchase prices"
+    },
+    {
+      "check_name": "Numeric Constraint - FactSales quantity > 0",
+      "passed": true,
+      "details": "No negative sales quantities"
+    },
+    {
+      "check_name": "Numeric Constraint - FactSales selling price > 0",
+      "passed": true,
+      "details": "No negative selling prices"
+    },
+    {
+      "check_name": "Numeric Constraint - FactInventory stock >= 0",
+      "passed": true,
+      "details": "No negative stock levels"
+    },
+    {
+      "check_name": "Numeric Constraint - DimVendor rating in [1.0, 5.0]",
+      "passed": true,
+      "details": "All ratings within valid range"
+    },
+    {
+      "check_name": "Calculation Integrity - FactPurchases line totals match",
+      "passed": true,
+      "details": "Mismatches: 0"
+    },
+    {
+      "check_name": "Calculation Integrity - FactSales line totals match",
+      "passed": true,
+      "details": "Mismatches: 0"
+    },
+    {
+      "check_name": "Critical Nulls - DimVendor email and name",
+      "passed": true,
+      "details": "0 nulls"
+    },
+    {
+      "check_name": "Critical Nulls - FactPurchases dates and keys",
+      "passed": true,
+      "details": "0 nulls"
+    }
+  ]
+}

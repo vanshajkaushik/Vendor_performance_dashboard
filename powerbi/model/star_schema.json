@@ -1,0 +1,151 @@
+{
+  "name": "Vendor_Performance_Data_Model",
+  "compatibilityLevel": 1550,
+  "tables": [
+    {
+      "name": "DimCategory",
+      "columns": [
+        "category_id",
+        "category_name",
+        "description",
+        "target_margin_pct"
+      ]
+    },
+    {
+      "name": "DimVendor",
+      "columns": [
+        "vendor_id",
+        "vendor_code",
+        "vendor_name",
+        "vendor_category",
+        "contact_person",
+        "email",
+        "phone",
+        "country",
+        "rating",
+        "contract_start_date",
+        "payment_terms",
+        "status"
+      ]
+    },
+    {
+      "name": "DimProduct",
+      "columns": [
+        "product_id",
+        "product_code",
+        "product_name",
+        "category_id",
+        "subcategory",
+        "standard_cost",
+        "selling_price",
+        "status"
+      ]
+    },
+    {
+      "name": "DimDate",
+      "columns": [
+        "date_id",
+        "date",
+        "year",
+        "quarter",
+        "month_num",
+        "month_name",
+        "month_year",
+        "is_weekend"
+      ]
+    },
+    {
+      "name": "FactPurchases",
+      "columns": [
+        "purchase_id",
+        "vendor_id",
+        "product_id",
+        "purchase_date",
+        "quantity",
+        "unit_purchase_price",
+        "total_purchase_value"
+      ]
+    },
+    {
+      "name": "FactSales",
+      "columns": [
+        "sale_id",
+        "product_id",
+        "sale_date",
+        "quantity",
+        "unit_selling_price",
+        "total_sales_value"
+      ]
+    },
+    {
+      "name": "FactInventory",
+      "columns": [
+        "inventory_id",
+        "product_id",
+        "vendor_id",
+        "inventory_date",
+        "stock_quantity",
+        "reorder_level",
+        "safety_stock"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "fromTable": "FactPurchases",
+      "fromColumn": "vendor_id",
+      "toTable": "DimVendor",
+      "toColumn": "vendor_id",
+      "cardinality": "ManyToOne"
+    },
+    {
+      "fromTable": "FactPurchases",
+      "fromColumn": "product_id",
+      "toTable": "DimProduct",
+      "toColumn": "product_id",
+      "cardinality": "ManyToOne"
+    },
+    {
+      "fromTable": "FactPurchases",
+      "fromColumn": "purchase_date",
+      "toTable": "DimDate",
+      "toColumn": "date",
+      "cardinality": "ManyToOne"
+    },
+    {
+      "fromTable": "FactSales",
+      "fromColumn": "product_id",
+      "toTable": "DimProduct",
+      "toColumn": "product_id",
+      "cardinality": "ManyToOne"
+    },
+    {
+      "fromTable": "FactSales",
+      "fromColumn": "sale_date",
+      "toTable": "DimDate",
+      "toColumn": "date",
+      "cardinality": "ManyToOne"
+    },
+    {
+      "fromTable": "DimProduct",
+      "fromColumn": "category_id",
+      "toTable": "DimCategory",
+      "toColumn": "category_id",
+      "cardinality": "ManyToOne"
+    },
+    {
+      "fromTable": "FactInventory",
+      "fromColumn": "vendor_id",
+      "toTable": "DimVendor",
+      "toColumn": "vendor_id",
+      "cardinality": "ManyToOne"
+    },
+    {
+      "fromTable": "FactInventory",
+      "fromColumn": "product_id",
+      "toTable": "DimProduct",
+      "toColumn": "product_id",
+      "cardinality": "ManyToOne"
+    }
+  ]
+}

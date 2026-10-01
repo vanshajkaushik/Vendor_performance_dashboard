@@ -1,0 +1,6 @@
+category_id,category_name,description,target_margin_pct
+CAT-001,Electronics,"Semiconductors, PCBs, Displays, and Electronic Components",48.0
+CAT-002,Industrial Machinery,"Hydraulics, Pumps, Actuators, Motors, and Mechanical Assemblies",52.0
+CAT-003,Raw Materials,"High-purity metals, polymers, industrial chemicals, and paper pulp",28.0
+CAT-004,Office Supplies,"Workplace ergonomic furnishings, equipment, and consumables",38.0
+CAT-005,Packaging,"Corrugated boxes, protective films, adhesives, and eco-void fill",32.0

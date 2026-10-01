@@ -1,0 +1,61 @@
+product_id,product_name,category,subcategory,unit_cost,selling_price
+PRD001,Microcontroller Core X4,Electronics,Semiconductors,42.0,79.99
+PRD002,FPGA Accelerated Matrix,Electronics,Semiconductors,125.0,249.5
+PRD003,Opto-Coupler High Speed,Electronics,Semiconductors,4.5,9.99
+PRD004,Multi-Layer Ceramic PCB v3,Electronics,Circuit Boards,18.2,39.99
+PRD005,High-Density Rigid-Flex PCB,Electronics,Circuit Boards,32.5,68.0
+PRD006,Embedded Sensor Array,Electronics,Sensors,15.8,34.5
+PRD007,Industrial LiDAR Sensor,Electronics,Sensors,210.0,399.0
+PRD008,Ultra-Bright OLED Panel 7in,Electronics,Displays,68.0,129.99
+PRD009,Touch TFT Module 10in,Electronics,Displays,88.5,169.0
+PRD010,e-Paper Display 13.3in,Electronics,Displays,110.0,215.0
+PRD011,ARM Cortex IoT Transceiver,Electronics,Semiconductors,28.0,56.0
+PRD012,Solid State Relay Module,Electronics,Power & Switches,22.0,48.0
+PRD013,Precision Shunt Resistor Kit,Electronics,Passive Components,6.8,14.5
+PRD014,Shielded Ethernet Interface,Electronics,Networking,12.4,27.9
+PRD015,Hydraulic Servo Valve 3000PSI,Industrial Machinery,Hydraulics,340.0,620.0
+PRD016,High-Pressure Gear Pump 50L,Industrial Machinery,Hydraulics,480.0,890.0
+PRD017,Variable Speed AC Drive 15kW,Industrial Machinery,Drives & Motors,650.0,1190.0
+PRD018,Brushless DC Motor 48V,Industrial Machinery,Drives & Motors,180.0,340.0
+PRD019,Pneumatic Linear Actuator 500mm,Industrial Machinery,Pneumatics,145.0,285.0
+PRD020,Heavy Duty Flange Bearing 80mm,Industrial Machinery,Bearings & Seals,75.0,155.0
+PRD021,Rotary Encoder Optical 5000PPR,Industrial Machinery,Instrumentation,195.0,375.0
+PRD022,Planetary Gearbox Ratio 25:1,Industrial Machinery,Gears & Transmissions,520.0,980.0
+PRD023,Industrial Chiller Heat Exchanger,Industrial Machinery,Thermal Systems,820.0,1490.0
+PRD024,Cast Iron Centrifugal Impeller,Industrial Machinery,Pumps,215.0,410.0
+PRD025,Vibration Damping Mount Heavy,Industrial Machinery,Mechanical Hardware,38.0,79.0
+PRD026,PLC Central Controller Unit,Industrial Machinery,Automation,720.0,1350.0
+PRD027,Stainless Steel Sheet 316L 2mm,Raw Materials,Metals,85.0,140.0
+PRD028,Aerospace Grade Aluminum 6061-T6,Raw Materials,Metals,115.0,195.0
+PRD029,Copper Rod High Conductive 20mm,Raw Materials,Metals,98.0,168.0
+PRD030,Titanium Alloy Ingot Grade 5,Raw Materials,Metals,240.0,420.0
+PRD031,Industrial Epoxy Resin 50kg,Raw Materials,Chemicals & Polymers,160.0,275.0
+PRD032,Polyurethane Elastomer Pellet,Raw Materials,Chemicals & Polymers,72.0,125.0
+PRD033,High-Density Polyethylene HDPE,Raw Materials,Chemicals & Polymers,45.0,78.0
+PRD034,Carbon Fiber Prepreg Roll 100m,Raw Materials,Composites,310.0,540.0
+PRD035,Bleached Sulfate Kraft Pulp 1T,Raw Materials,Paper & Pulp,450.0,720.0
+PRD036,Specialty Ceramic Powder Alumina,Raw Materials,Minerals,130.0,230.0
+PRD037,Liquid Silicone Rubber Shore 40,Raw Materials,Polymers,88.0,152.0
+PRD038,Galvanized Steel Wire Coils,Raw Materials,Metals,54.0,92.0
+PRD039,Ergonomic Mesh Task Chair,Office Supplies,Furniture,145.0,289.0
+PRD040,Motorized Standing Desk 60in,Office Supplies,Furniture,290.0,580.0
+PRD041,Dual Monitor Gas Spring Arm,Office Supplies,Accessories,48.0,99.0
+PRD042,Heavy Duty Desktop Shredder,Office Supplies,Equipment,95.0,185.0
+PRD043,Recycled Copy Paper 10 Reams,Office Supplies,Paper Products,32.0,58.0
+PRD044,Thermal Label Printer Pro,Office Supplies,Equipment,110.0,219.0
+PRD045,Acoustic Desk Privacy Screen,Office Supplies,Furnishings,42.0,85.0
+PRD046,High-Yield Toner Cartridge Black,Office Supplies,Consumables,55.0,115.0
+PRD047,Wireless Presentation Remote,Office Supplies,Electronics,18.0,39.0
+PRD048,Executive Leather Conference Chair,Office Supplies,Furniture,210.0,420.0
+PRD049,Cable Management Raceway Kit,Office Supplies,Accessories,14.5,32.0
+PRD050,Corrugated Shipping Box 12x12x12,Packaging,Boxes,1.2,2.5
+PRD051,Heavy Duty Double Wall Box 24x18,Packaging,Boxes,2.8,5.9
+PRD052,Biodegradable Air Pillow Roll,Packaging,Void Fill,26.0,52.0
+PRD053,Stretch Wrap Film 80 Gauge 4pk,Packaging,Films,42.0,84.0
+PRD054,Reinforced Kraft Water Tape 6pk,Packaging,Adhesives,34.0,68.0
+PRD055,Thermal Insulated Box Liner 50pk,Packaging,Cold Chain,62.0,125.0
+PRD056,Anti-Static Bubble Pouch 8x10,Packaging,Protective,16.5,35.0
+PRD057,Molded Pulp Corner Guards 500pk,Packaging,Protective,38.0,76.0
+PRD058,High-Tension Poly Strapping Roll,Packaging,Strapping,48.0,96.0
+PRD059,Compostable Poly Mailer 10x13,Packaging,Envelopes,14.0,29.5
+PRD060,Heavy Duty Pallet Stretch Hood,Packaging,Pallet Protection,85.0,165.0
